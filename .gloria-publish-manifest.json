@@ -1,7 +1,7 @@
 {
   "product": "gloria-live",
   "schema": 1,
-  "version": "2026.10.29.2",
+  "version": "2026.10.29.3",
   "files": [
     {
       "path": "CORMORANT-OFL.txt",
@@ -24,24 +24,24 @@
       "sha256": "5d618c462b7a5b74f442e1548880086af71764d9cc7d35c16ab45353da934621"
     },
     {
+      "path": "assets/index-C5olWzgV.js",
+      "size": 3919,
+      "sha256": "20acb35a318ecc1d27082709c8ff1a7d0bb548498d3e8cf152e460e551a78aa2"
+    },
+    {
       "path": "assets/index-lq1xEsBY.css",
       "size": 42025,
       "sha256": "f3bfa681c53d71ac9e308744c1f9cc0c6e50963dc8ae054437747b026e5069f4"
     },
     {
-      "path": "assets/index-vlv9YRQi.js",
-      "size": 3919,
-      "sha256": "6412e8552a7a5c4b2ac9c11681a70caccc271aba8957749b0abbd51a3ed7f008"
-    },
-    {
-      "path": "assets/main-BA7ejOiV.js",
-      "size": 1215757,
-      "sha256": "3f968a302aadc7817c90f2629b62ab6fcae7a74e7c5c070a4142d46b4337fd9c"
-    },
-    {
       "path": "assets/main-Owf3JABE.css",
       "size": 19358,
       "sha256": "5ca7e49d1a7b7ce55afc1822bc139f210e9529e1f449990b9cd4fbb6d0ebd06f"
+    },
+    {
+      "path": "assets/main-uXXA-U_Q.js",
+      "size": 1215748,
+      "sha256": "e6f2aace692198f8be731fed0b03a5ae94f49955996791c39b13c08b8885fa8a"
     },
     {
       "path": "audio/farewell.wav",
@@ -226,7 +226,7 @@
     {
       "path": "index.html",
       "size": 13064,
-      "sha256": "a6f6c3b23617276d3e64df289b2bfec7a8695f21b398f15c1298610a5af0e8ad"
+      "sha256": "d08296bf71dddaa12b937d6141606b1c031fd97e2e503999dc2d55e7391a8ad6"
     },
     {
       "path": "stage/clips/blue-confetti-poster.jpg",
@@ -2996,7 +2996,7 @@
     {
       "path": "version.json",
       "size": 83,
-      "sha256": "b329850813966a96776ee3122134f1da02d77415d8a49f9bcb70ea353ca61a2e"
+      "sha256": "e5d34b6781d5983f69e9b21d02984ead1827e5132765e066943500bb819eb297"
     },
     {
       "path": ".nojekyll",
@@ -3007,6 +3007,18 @@
       "path": "CNAME",
       "size": 22,
       "sha256": "1f04ea17c4874f71d5ce13d1334fa872a51bf6ce2010ba1d506d8acf33d2fc7a"
+    },
+    {
+      "path": "assets/index-vlv9YRQi.js",
+      "size": 3919,
+      "sha256": "6412e8552a7a5c4b2ac9c11681a70caccc271aba8957749b0abbd51a3ed7f008",
+      "retainUntil": 1793336904750
+    },
+    {
+      "path": "assets/main-BA7ejOiV.js",
+      "size": 1215757,
+      "sha256": "3f968a302aadc7817c90f2629b62ab6fcae7a74e7c5c070a4142d46b4337fd9c",
+      "retainUntil": 1793336904751
     },
     {
       "path": "assets/index-BLg8qP7V.css",
