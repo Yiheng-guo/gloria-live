@@ -1,7 +1,7 @@
 {
   "product": "gloria-live",
   "schema": 1,
-  "version": "2026.10.29.5",
+  "version": "2026.10.29.6",
   "files": [
     {
       "path": "CORMORANT-OFL.txt",
@@ -24,9 +24,9 @@
       "sha256": "5d618c462b7a5b74f442e1548880086af71764d9cc7d35c16ab45353da934621"
     },
     {
-      "path": "assets/index-COFwmlfp.js",
+      "path": "assets/index-DmBlMxnk.js",
       "size": 3919,
-      "sha256": "8ff70e2e184f66e01958ed69b60b75556c38d09794b3df59582beac0c477acc3"
+      "sha256": "a90a0be8bfc0a19effbe6e63d800a01cbaf634ce07d5389652626fcc35441a0f"
     },
     {
       "path": "assets/index-yoY5HvOf.css",
@@ -34,9 +34,9 @@
       "sha256": "d486b7b0312e5de4921b0b4c007bc4fbe803e12e91009b7e38550d96c1959ad8"
     },
     {
-      "path": "assets/main-Cce8LLnC.js",
-      "size": 1243197,
-      "sha256": "e50de794520402dedf8a518fcfc11a97bbcadc797442666bcc8d061af2b8e1a6"
+      "path": "assets/main-C4bfjHHb.js",
+      "size": 1255334,
+      "sha256": "275fe4ca102685b4fd207fe78014d71847df81e7c2294e0f4607cbd7fc06554a"
     },
     {
       "path": "assets/main-O_tUh96P.css",
@@ -226,7 +226,7 @@
     {
       "path": "index.html",
       "size": 13216,
-      "sha256": "a6d6c83636be96bffc5dbd7a2d8b69c00377aa13f085993bfdc8f4b2900c8682"
+      "sha256": "a3377713a6adca741b2840f5dc6da14bf43d2e7988918ed3366686fa23134050"
     },
     {
       "path": "stage/clips/blue-confetti-poster.jpg",
@@ -3216,7 +3216,7 @@
     {
       "path": "version.json",
       "size": 83,
-      "sha256": "31ea7790d15f8dba329b0a8839f2cbc3806f12546891687b764b984281154206"
+      "sha256": "16ba2c4f7e947370fbf1dce0f7d47b91c0f81745303f6e5e64eeed592873251c"
     },
     {
       "path": ".nojekyll",
@@ -3227,6 +3227,18 @@
       "path": "CNAME",
       "size": 22,
       "sha256": "1f04ea17c4874f71d5ce13d1334fa872a51bf6ce2010ba1d506d8acf33d2fc7a"
+    },
+    {
+      "path": "assets/index-COFwmlfp.js",
+      "size": 3919,
+      "sha256": "8ff70e2e184f66e01958ed69b60b75556c38d09794b3df59582beac0c477acc3",
+      "retainUntil": 1793356926811
+    },
+    {
+      "path": "assets/main-Cce8LLnC.js",
+      "size": 1243197,
+      "sha256": "e50de794520402dedf8a518fcfc11a97bbcadc797442666bcc8d061af2b8e1a6",
+      "retainUntil": 1793356926813
     },
     {
       "path": "assets/index-iZbFVfL2.js",
