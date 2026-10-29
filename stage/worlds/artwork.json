@@ -1,0 +1,17 @@
+{
+  "generator": "built-in image_gen",
+  "created": "2026-10-27",
+  "use": "Original concept LED artwork; not concert documentation. Loaded only when selected.",
+  "assets": [
+    {
+      "path": "island-v1.jpg",
+      "source": "exec-f281b1af-4ece-42e4-a43f-4f546405df56.png",
+      "prompt": "Create one premium photorealistic cinematic environment plate for a concert LED screen, landscape 3:1 aspect ratio, no borders, no text, no typography, no logos, absolutely no people, no stage, no audience, no architecture. A breathtaking tropical ocean lagoon, Maldives-like but original imaginary geography, extremely wide panorama from a low shore looking toward the open sea. Clear turquoise shallow water fills the lower half with rich natural sun caustics, delicate white foam sweeps onto a small pale sandbank in lower right, a small lush island in the distant mid-left, a few graceful palm fronds enter far right, low unbroken horizon at about 45% height. Luminous pale blue sky, soft real cumulus clouds, warm sunlight, atmospheric perspective, emotionally calm and expansive, rich teal and soft gold color grade, restrained highlights with detailed sky and water. This is background artwork for a digital immersive music venue, make it feel like a beautifully photographed live visual world, not a flat illustration or low-poly game. Very fine realistic water detail, carefully composed central empty ocean vista with spacious depth. No artificial beams, no fake lens flare, no overexposure. Produce just the single ultra-wide environmental plate."
+    },
+    {
+      "path": "redsea-v1.jpg",
+      "source": "exec-dddda1dd-e995-4add-aa94-5f25bf68b2c4.png",
+      "prompt": "Create one premium photorealistic cinematic environmental plate for an immersive concert LED screen, wide 3:1 landscape, single scene no borders, absolutely no words, no text, no logos, no people, no stage or audience. A monumental sea parting: two vast luminous BLUE and TURQUOISE water walls stand on the left and right, with beautifully detailed flowing liquid, deep sculptural volumes, translucent currents, foaming curls along the high crests and atmospheric mist. In the central 40% of the composition a dark wet sandy path opens and leads in strong perspective toward a distant luminous golden sunrise at the horizon, beneath pale clouds. The path is wide in foreground and narrows toward distant light. Water walls rise dramatically above the path but stay within the image, especially put recognizable curled crests in the inner thirds, not just outside edges. Majestic spiritual scale, powerful and hopeful concert visual art, subtle realistic reflection on the path, volumetric dawn light, dark blue lower corners and rich teal midtones. Film-quality realistic ocean simulation, not cartoon, not wireframe, not abstract wavy lines, not a red-colored ocean. No solid white overexposed region; preserve realistic detail throughout. This is original background scenery for a generic concept concert venue, not a record of an actual performance. Produce just the single ultra-wide plate."
+    }
+  ]
+}

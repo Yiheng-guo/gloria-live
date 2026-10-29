@@ -1,0 +1,228 @@
+[
+  {
+    "id": "lion-cg",
+    "sourceSize": [
+      1242,
+      2081
+    ],
+    "rect": [
+      470,
+      425,
+      772,
+      720
+    ],
+    "layout": "center-contain",
+    "visualIds": [
+      0
+    ],
+    "trackIds": [
+      "tour-01"
+    ],
+    "sourceURL": "https://aka.doubaocdn.com/s/VYlKVrUw1N",
+    "description": "真实大屏上的铜金巨狮头与红色火光，排除下方实体狮台和演员。",
+    "evidence": "Image visibly distinguishes the enormous CGI head behind the smaller physical lion platform. Song pairing is a collection claim, not frame-level lyric verification.",
+    "sourceScope": "user-supplied collection; collection URL is not independently authenticated",
+    "rights": "Keep original photograph and collection attribution. This is reference material, not original artwork.",
+    "caveat": "Original photo already cuts the right edge of the muzzle; use as an enlarged sculptural feature with red/fire surroundings, never stretch to the full panoramic LED.",
+    "originalName": "神图08_红焰机械金狮全景温州首场.jpg",
+    "asset": "lion-cg.jpg"
+  },
+  {
+    "id": "blackhole",
+    "sourceSize": [
+      1920,
+      1080
+    ],
+    "rect": [
+      475,
+      500,
+      713,
+      330
+    ],
+    "layout": "center-contain",
+    "visualIds": [
+      2
+    ],
+    "trackIds": [
+      "tour-04"
+    ],
+    "sourceURL": "https://aka.doubaocdn.com/s/ZAQMNA3oXX",
+    "description": "红金色吸积盘与完整黑色圆心，只取屏内中心影像。",
+    "evidence": "The photograph contains the lyric 也许憧憬以外是遥远未来的梦 supporting 光年之外; city and tour-version claims remain collection metadata.",
+    "sourceScope": "user-supplied collection; collection URL is not independently authenticated",
+    "rights": "Keep original photograph and collection attribution. This is reference material, not original artwork.",
+    "caveat": "Preserve circular geometry with center-contain, about 58 percent of the LED width at full LED height; do not stretch to 3.71:1.",
+    "originalName": "大屏39_肇庆光年之外黑洞大屏歌词.jpg",
+    "asset": "blackhole.jpg"
+  },
+  {
+    "id": "butterfly",
+    "sourceSize": [
+      1214,
+      809
+    ],
+    "rect": [
+      293,
+      307,
+      613,
+      165
+    ],
+    "layout": "full",
+    "visualIds": [
+      4
+    ],
+    "trackIds": [
+      "tour-06"
+    ],
+    "sourceURL": "https://aka.doubaocdn.com/s/U5zkcmERRZ",
+    "description": "冰蓝色透明蝴蝶与透视蓝框，裁区完全在真正LED画面内。",
+    "evidence": "Blue butterfly is directly visible; pairing to 透明 is only stated by collection filename/manifest, so the simulator pairing is interpretation.",
+    "sourceScope": "user-supplied collection; collection URL is not independently authenticated",
+    "rights": "Keep original photograph and collection attribution. This is reference material, not original artwork.",
+    "caveat": "Bottom crop excludes the foreground pit arches and stage floor; no audience, ceiling or hanging speakers in the selected region.",
+    "originalName": "大屏28_武汉透明蝴蝶蓝框大屏.jpg",
+    "asset": "butterfly.jpg"
+  },
+  {
+    "id": "cathedral",
+    "sourceSize": [
+      3000,
+      2000
+    ],
+    "rect": [
+      0,
+      0,
+      3000,
+      810
+    ],
+    "layout": "full",
+    "visualIds": [
+      8
+    ],
+    "trackIds": [],
+    "sourceURL": "https://aka.doubaocdn.com/s/XIG4Vy37BW",
+    "description": "蓝色哥特窗、玫瑰窗与王座上部的真实屏内画面，排除下方实体钢琴。",
+    "evidence": "Architectural screen content is visible; the image does not independently establish a song or tour version.",
+    "sourceScope": "user-supplied collection; collection URL is not independently authenticated",
+    "rights": "Keep original photograph and collection attribution. This is reference material, not original artwork.",
+    "caveat": "The lower half of the original photograph contains a physical piano and singer. Only the upper 810 source pixels are used, with no performer, platform or audience.",
+    "originalName": "神图25_重庆蓝色哥特教堂钢琴舞台.jpg",
+    "asset": "cathedral.jpg"
+  },
+  {
+    "id": "sunset-tree",
+    "sourceSize": [
+      1080,
+      720
+    ],
+    "rect": [
+      435,
+      347,
+      280,
+      161
+    ],
+    "layout": "center-contain",
+    "visualIds": [
+      26
+    ],
+    "trackIds": [],
+    "description": "落日与黑色大树剪影，只取中央LED的树冠与树干。",
+    "evidence": "Tree silhouette and orange sky are directly visible. The photograph does not establish the song; use as a free scene preview.",
+    "caveat": "The source is a wide stage photograph. The chosen small center region excludes live singer portraits, physical stairs and the crowd; texture resolution is limited.",
+    "sourceURL": "https://aka.doubaocdn.com/s/H38hqONkDY",
+    "sourceScope": "user-supplied collection; collection URL is not independently authenticated",
+    "rights": "Keep original photograph and collection attribution. This is reference material, not original artwork.",
+    "originalName": "大屏09_三亚夕阳大树大屏视觉.jpg",
+    "asset": "sunset-tree.jpg"
+  },
+  {
+    "id": "mechanical-heart",
+    "sourceSize": [
+      1762,
+      991
+    ],
+    "rect": [
+      389,
+      299,
+      218,
+      178
+    ],
+    "layout": "center-contain",
+    "visualIds": [
+      18
+    ],
+    "trackIds": [
+      "tour-30"
+    ],
+    "description": "紫蓝底上的透明金属心形装置，屏内双层心形轮廓。",
+    "evidence": "Heart artwork is directly visible. The same photograph shows a side lyric fragment about 浴火, consistent with 新的心跳; the official music video is the song identity reference. City and 2.0 version are not independently verified.",
+    "supportingSources": [
+      "https://www.youtube.com/watch?v=vDR-e3W6ARc"
+    ],
+    "caveat": "The source region is only 218 by 178 pixels. Keep it contained as the central luminous heart, surrounded by the existing dark pulse visual; do not stretch to full panoramic width.",
+    "sourceURL": "https://aka.doubaocdn.com/s/CD0v2dbZCl",
+    "sourceScope": "user-supplied collection; collection URL is not independently authenticated",
+    "rights": "Keep original photograph and collection attribution. This is reference material, not original artwork.",
+    "originalName": "神图27_鸟巢爱心齿轮粉紫舞台.jpg",
+    "asset": "mechanical-heart.jpg"
+  },
+  {
+    "id": "clock-tunnel",
+    "sourceSize": [
+      1080,
+      720
+    ],
+    "rect": [
+      397,
+      300,
+      349,
+      165
+    ],
+    "layout": "center-contain",
+    "visualIds": [
+      12
+    ],
+    "trackIds": [
+      "tour-29"
+    ],
+    "description": "真实大屏里的金属时钟拱洞与递进齿轮隧道。",
+    "evidence": "Clockwork arches are directly visible. Pairing to 倒数 is a concept interpretation, not a song identity established by this frame.",
+    "caveat": "The crop excludes singer portraits, the stage floor, people and the foreground light fixtures. Its bottom naturally cuts into the tunnel; keep the artwork central and preserve its aspect.",
+    "sourceURL": "https://aka.doubaocdn.com/s/WNaKxVnxXz",
+    "sourceScope": "user-supplied collection; collection URL is not independently authenticated",
+    "rights": "Keep original photograph and collection attribution. This is reference material, not original artwork.",
+    "originalName": "大屏07_三亚齿轮拱洞隧道大屏.jpg",
+    "asset": "clock-tunnel.jpg"
+  },
+  {
+    "id": "pink-wings",
+    "sourceSize": [
+      1080,
+      1080
+    ],
+    "rect": [
+      0,
+      238,
+      1080,
+      525
+    ],
+    "layout": "center-contain",
+    "visualIds": [
+      27
+    ],
+    "trackIds": [],
+    "containsPerformer": true,
+    "hidePortraits": true,
+    "description": "真实大屏中的紫粉色羽翼与中央真实歌手影像。",
+    "evidence": "The source artwork includes the singer. A related supplied frame 大屏29 carries the line I don’t need to hide, consistent with Someday I’ll Fly; that song is not in the current 32-track preview catalog. Expose as a free visual scene rather than assigning it to another song.",
+    "supportingSources": [
+      "https://www.youtube.com/watch?v=peXpXFYhhyY"
+    ],
+    "caveat": "Keep the central true portrait as part of the image and hide the separate side portrait layers for this artwork. The original collection does not independently verify tour version or performance date.",
+    "sourceURL": "https://aka.doubaocdn.com/s/5LWsVV3LGn",
+    "sourceScope": "user-supplied collection; collection URL is not independently authenticated",
+    "rights": "Keep original photograph and collection attribution. This is reference material, not original artwork.",
+    "originalName": "神图46_启德紫粉色翅膀大屏.jpg",
+    "asset": "pink-wings.jpg"
+  }
+]

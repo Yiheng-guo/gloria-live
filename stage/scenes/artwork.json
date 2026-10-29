@@ -1,0 +1,1070 @@
+{
+  "note": "Reference-constrained reconstructions are AI-assisted scenic rebuilds from supplied photographs, not extracted original tour CG. Original photographs are retained unchanged in the gallery. Other scenic environments are original concept work.",
+  "entries": [
+    {
+      "id": "lion-cg",
+      "url": "./stage/scenes/lion-live.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 0.8076923076923077,
+      "hidePortraits": false,
+      "visualIds": [
+        0
+      ],
+      "trackIds": [],
+      "motion": 4,
+      "kind": "reference-constrained-reconstruction"
+    },
+    {
+      "id": "blackhole",
+      "url": "./stage/scenes/blackhole-live.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 0.8013966776002539,
+      "hidePortraits": false,
+      "visualIds": [
+        2
+      ],
+      "trackIds": [],
+      "motion": 2,
+      "kind": "reference-constrained-reconstruction"
+    },
+    {
+      "id": "rain-cinema",
+      "url": "./stage/scenes/rain.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 0.8013966776002539,
+      "hidePortraits": false,
+      "visualIds": [
+        1,
+        5
+      ],
+      "trackIds": [],
+      "motion": 5,
+      "kind": "original-environment"
+    },
+    {
+      "id": "city-cinema",
+      "url": "./stage/scenes/city.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 0.8076923076923077,
+      "hidePortraits": false,
+      "visualIds": [
+        3,
+        13
+      ],
+      "trackIds": [],
+      "motion": 6,
+      "kind": "original-environment"
+    },
+    {
+      "id": "butterfly",
+      "url": "./stage/screens/butterfly.jpg",
+      "corners": [
+        [
+          0.241350906,
+          0.379480841
+        ],
+        [
+          0.746293245,
+          0.379480841
+        ],
+        [
+          0.746293245,
+          0.583436341
+        ],
+        [
+          0.241350906,
+          0.583436341
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [
+        4
+      ],
+      "trackIds": [],
+      "motion": 2,
+      "kind": "supplied-screen-crop"
+    },
+    {
+      "id": "ice-cinema",
+      "url": "./stage/scenes/ice.jpg",
+      "corners": [
+        [
+          0,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.9038461538461539
+        ],
+        [
+          0,
+          0.9038461538461539
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [
+        6
+      ],
+      "trackIds": [],
+      "motion": 7,
+      "kind": "original-environment"
+    },
+    {
+      "id": "redsea-live",
+      "url": "./stage/scenes/redsea-live.jpg",
+      "corners": [
+        [
+          0,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.9038461538461539
+        ],
+        [
+          0,
+          0.9038461538461539
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [
+        7
+      ],
+      "trackIds": [],
+      "motion": 1,
+      "kind": "reference-constrained-reconstruction",
+      "sea": true
+    },
+    {
+      "id": "river-cinema",
+      "url": "./stage/scenes/river.jpg",
+      "corners": [
+        [
+          0,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.9038461538461539
+        ],
+        [
+          0,
+          0.9038461538461539
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [
+        7,
+        10
+      ],
+      "trackIds": [],
+      "motion": 1,
+      "kind": "original-environment",
+      "sea": false
+    },
+    {
+      "id": "cathedral",
+      "url": "./stage/screens/cathedral.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          0.405
+        ],
+        [
+          0,
+          0.405
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [
+        8,
+        21
+      ],
+      "trackIds": [],
+      "motion": 8,
+      "kind": "supplied-screen-crop"
+    },
+    {
+      "id": "moon-cinema",
+      "url": "./stage/scenes/moon.jpg",
+      "corners": [
+        [
+          0,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.9038461538461539
+        ],
+        [
+          0,
+          0.9038461538461539
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [
+        9
+      ],
+      "trackIds": [],
+      "motion": 1,
+      "kind": "original-environment"
+    },
+    {
+      "id": "rose-cinema",
+      "url": "./stage/scenes/rose.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 0.8076923076923077,
+      "hidePortraits": false,
+      "visualIds": [
+        11
+      ],
+      "trackIds": [],
+      "motion": 8,
+      "kind": "original-environment"
+    },
+    {
+      "id": "clock-tunnel",
+      "url": "./stage/scenes/clock-live.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 0.8076923076923077,
+      "hidePortraits": false,
+      "visualIds": [
+        12
+      ],
+      "trackIds": [],
+      "motion": 2,
+      "kind": "reference-constrained-reconstruction"
+    },
+    {
+      "id": "bubble-live",
+      "url": "./stage/scenes/bubble-live.jpg",
+      "corners": [
+        [
+          0,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.9038461538461539
+        ],
+        [
+          0,
+          0.9038461538461539
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [
+        14
+      ],
+      "trackIds": [],
+      "motion": 3,
+      "kind": "reference-constrained-reconstruction"
+    },
+    {
+      "id": "dawn-cinema",
+      "url": "./stage/scenes/dawn.jpg",
+      "corners": [
+        [
+          0,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.9038461538461539
+        ],
+        [
+          0,
+          0.9038461538461539
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [
+        15
+      ],
+      "trackIds": [],
+      "motion": 8,
+      "kind": "original-environment"
+    },
+    {
+      "id": "aurora-cinema",
+      "url": "./stage/scenes/aurora.jpg",
+      "corners": [
+        [
+          0,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.9038461538461539
+        ],
+        [
+          0,
+          0.9038461538461539
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [
+        16
+      ],
+      "trackIds": [],
+      "motion": 9,
+      "kind": "original-environment"
+    },
+    {
+      "id": "crystal-cinema",
+      "url": "./stage/scenes/heart-live.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 0.8076923076923077,
+      "hidePortraits": false,
+      "visualIds": [
+        17,
+        20
+      ],
+      "trackIds": [],
+      "motion": 2,
+      "kind": "reference-constrained-reconstruction"
+    },
+    {
+      "id": "mechanical-heart",
+      "url": "./stage/scenes/heart-live.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 0.8076923076923077,
+      "hidePortraits": false,
+      "visualIds": [
+        18
+      ],
+      "trackIds": [],
+      "motion": 2,
+      "kind": "reference-constrained-reconstruction"
+    },
+    {
+      "id": "flames-cinema",
+      "url": "./stage/scenes/lion-live.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 0.8076923076923077,
+      "hidePortraits": false,
+      "visualIds": [
+        19
+      ],
+      "trackIds": [],
+      "motion": 4,
+      "kind": "reference-constrained-reconstruction"
+    },
+    {
+      "id": "storybook-cinema",
+      "url": "./stage/scenes/storybook.jpg",
+      "corners": [
+        [
+          0,
+          0.09930166119987305
+        ],
+        [
+          1,
+          0.09930166119987305
+        ],
+        [
+          1,
+          0.900698338800127
+        ],
+        [
+          0,
+          0.900698338800127
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [
+        23
+      ],
+      "trackIds": [],
+      "motion": 8,
+      "kind": "original-environment"
+    },
+    {
+      "id": "sunset-tree",
+      "url": "./stage/scenes/tree-live.jpg",
+      "corners": [
+        [
+          0,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.09615384615384615
+        ],
+        [
+          1,
+          0.9038461538461539
+        ],
+        [
+          0,
+          0.9038461538461539
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [
+        26
+      ],
+      "trackIds": [],
+      "motion": 8,
+      "kind": "reference-constrained-reconstruction"
+    },
+    {
+      "id": "pink-wings",
+      "url": "./stage/scenes/wings-live.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 0.8076923076923077,
+      "hidePortraits": true,
+      "visualIds": [
+        27
+      ],
+      "trackIds": [],
+      "motion": 8,
+      "kind": "reference-constrained-reconstruction"
+    },
+    {
+      "id": "devil-architecture-hd",
+      "url": "./stage/scenes/devil-architecture-hd.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [],
+      "trackIds": [],
+      "motion": 8,
+      "kind": "reference-constrained-reconstruction",
+      "sourceRecord": "research/premium-art-generation.json",
+      "note": "High-definition reference-constrained redraw; not original tour CG."
+    },
+    {
+      "id": "transparent-butterfly-hd",
+      "url": "./stage/scenes/transparent-butterfly-hd.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [],
+      "trackIds": [],
+      "motion": 10,
+      "kind": "reference-constrained-reconstruction",
+      "sourceRecord": "research/premium-art-generation.json",
+      "note": "High-definition reference-constrained redraw; not original tour CG."
+    },
+    {
+      "id": "wolf-fracture-hd",
+      "url": "./stage/scenes/wolf-fracture-hd.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [],
+      "trackIds": [],
+      "motion": 0,
+      "kind": "original-environment",
+      "sourceRecord": "research/premium-art-generation.json",
+      "note": "Original scenic environment; not verified original tour CG."
+    },
+    {
+      "id": "pause-cloud-hd",
+      "url": "./stage/scenes/pause-cloud-hd.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [],
+      "trackIds": [],
+      "motion": 11,
+      "kind": "original-environment",
+      "sourceRecord": "research/premium-art-generation.json",
+      "note": "Original scenic environment; not verified original tour CG."
+    },
+    {
+      "id": "ainy-silk-hd",
+      "url": "./stage/scenes/ainy-silk-hd.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [],
+      "trackIds": [],
+      "motion": 8,
+      "kind": "original-environment",
+      "sourceRecord": "research/premium-art-generation.json",
+      "note": "Original medley scenic environment generated at user request, without inset photos; not verified tour CG."
+    },
+    {
+      "id": "where-did-u-go-hd",
+      "url": "./stage/scenes/where-did-u-go-hd.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [],
+      "trackIds": [],
+      "motion": 5,
+      "kind": "original-environment",
+      "sourceRecord": "research/premium-art-generation.json",
+      "note": "Original medley scenic environment generated at user request, without inset photos; not verified tour CG."
+    },
+    {
+      "id": "intoxicated-velvet-hd",
+      "url": "./stage/scenes/intoxicated-velvet-hd.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [],
+      "trackIds": [],
+      "motion": 9,
+      "kind": "original-environment",
+      "sourceRecord": "research/premium-art-generation.json",
+      "note": "Original medley scenic environment generated at user request, without inset photos; not verified tour CG."
+    },
+    {
+      "id": "not-truly-happy-hd",
+      "url": "./stage/scenes/not-truly-happy-hd.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [],
+      "trackIds": [],
+      "motion": 1,
+      "kind": "original-environment",
+      "sourceRecord": "research/premium-art-generation.json",
+      "note": "Original medley scenic environment generated at user request, without inset photos; not verified tour CG."
+    },
+    {
+      "id": "goodbye-prism-hd",
+      "url": "./stage/scenes/goodbye-prism-hd.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [],
+      "trackIds": [],
+      "motion": 12,
+      "kind": "original-environment",
+      "sourceRecord": "research/premium-art-generation.json",
+      "note": "Original high energy Goodbye jewel scenery, not verified original tour CG."
+    },
+    {
+      "id": "only-halo-hd",
+      "url": "./stage/scenes/only-halo-hd.jpg",
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "span": 1,
+      "hidePortraits": true,
+      "visualIds": [],
+      "trackIds": [],
+      "motion": 8,
+      "kind": "original-environment",
+      "generationRecord": "research/only-halo-generation.json"
+    }
+  ],
+  "generation": [
+    {
+      "id": "ice",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium concert LED panoramic scenic artwork, not a photo of a concert. Create a highly detailed, cinematic and photorealistic alpine glacier canyon with a clear icy river running toward distant mountains under a pale blue winter sky. Fine translucent layered ice walls on left and right, snow dust, crystal glints, believable light transport and realistic water caustics. Wide 3:1 landscape image, the horizon in upper third, immense environmental depth. This fills a whole panoramic LED stage background, no borders, no human figures, no singer, no letters, no lights/truss/speakers/stadium/stage/audience, no cartoon, no flat polygons. Subtle silver-blue elegance with deep navy shadows, luminous but never overexposed highlights. Ultra refined 3D environment render with photographic detail.",
+      "kind": "original-environment",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/ice.jpg"
+    },
+    {
+      "id": "river",
+      "prompt": "Use case: photorealistic-natural. Asset type: panoramic concert LED environment. A breathtaking, photorealistic meandering turquoise river through dramatic misty forested mountain valleys at dawn, immense depth with soft golden light, detailed forest on both banks, fine ripples and real reflections on foreground clear water. View at water level from the river center toward a misty vanishing point, NOT aerial. Wide 3:1 panorama. Cinematic premium nature photography, refined volumetric light, natural greens and desaturated blue shadows, not fluorescent. Entire image is pure environment, no people, buildings, stage, audience, border, text, logos or flat cartoon shapes. No obvious repeated wave lines.",
+      "kind": "original-environment",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/river.jpg"
+    },
+    {
+      "id": "rain",
+      "prompt": "Use case: photorealistic-natural. Asset type: cinematic panoramic concert LED environment. Rainy midnight city street, symmetrical perspective depth, dark wet stone pavement reflecting tasteful blue violet and magenta neon, realistic high rises receding into soft mist. A few fine raindrops close to lens, dreamy bokeh, exceptionally rich filmic shadow detail, subdued elegance. No legible letters or commercial signage. Wide 3:1 panorama, cinematic highly detailed environment render with subtle lens bloom, no people, cars, concert audience, stage hardware, frames, text or logos, not flat illustration.",
+      "kind": "original-environment",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/rain.jpg"
+    },
+    {
+      "id": "rose",
+      "prompt": "Use case: photorealistic-natural. Asset type: luxurious concert LED artwork. Dreamlike macro garden of richly layered crimson and ivory roses, dozens of lush intricate velvety petals glowing softly against a deep nearly black burgundy background. Elegant asymmetrical composition, natural botanical form, deep foreground-to-background depth, tiny suspended gold dust and subtle dew drops. Two large soft-focus roses framing lower corners and detailed medium roses across center, spacious dark upper band. Wide 3:1 panorama, exquisite cinematic lighting and photographic depth. No lettering, people, flat graphic shapes, stage or frame. Premium fine art floral installation, not pattern or wallpaper.",
+      "kind": "original-environment",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/rose.jpg"
+    },
+    {
+      "id": "storybook",
+      "prompt": "Use case: stylized-concept. Asset type: premium concert LED scenic artwork. A monumental antique open storybook resting in a dark magical library, its two richly textured cream parchment pages curl in delicate sculptural folds and a miniature fantastical blue mountain valley rises organically from the pages. Tiny warm firefly lights float around the book, soft golden shafts of light from an unseen ceiling, breathtaking depth and detailed leather binding, physically based premium 3D environment render with cinematic photorealistic materials. Wide 3:1 panorama. One coherent scene, no grids or collages. No readable words, no people, concert stages, speaker hardware, audience, borders or logos. Refined rather than cartoonish.",
+      "kind": "original-environment",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/storybook.jpg"
+    },
+    {
+      "id": "redsea-live",
+      "prompt": "Use case: precise-object-edit. The input is an audience photograph of the concert screen. Reconstruct ONLY the exact blue parted-sea CGI artwork that is displayed on this screen as a pristine, flat, frontal panoramic LED content plate. Preserve the dramatic tall cyan water walls, their white foamy rims, the narrow opening and dark path at bottom center, and deep blue storm clouds of this specific reference. Remove camera perspective distortion, audience, singer, platform, speakers, light rig, stage border, beams and all text. Extend the underwater wall artwork naturally to a panoramic 3:1 image. It must look like the original CGI rendered at high resolution, extremely realistic and detailed, not a photo of a stage, not a new landscape, not abstract wave-lines. No text, no people, no hardware.",
+      "kind": "reference-constrained-reconstruction",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/redsea-live.jpg",
+      "reference": "17_redsea_beijing.jpg"
+    },
+    {
+      "id": "bubble-live",
+      "prompt": "Use case: precise-object-edit. This is a concert photo reference. Extract and reconstruct ONLY the screen's dark-blue iridescent soap bubble artwork as clean panoramic LED visual content. Keep the luminous translucent spherical bubbles of many sizes, purple/cyan/magenta rainbow edges and the tiny delicate butterflies seen in this exact reference. Remove singer, body, microphone, stage, audience, spotlights, speakers, seams and all text. Fill the place of the removed singer with more translucent bubbles and dark space, no silhouette. Refined cinematic glass optics and subtle dust, deep navy backdrop. Make a 3:1 panoramic flat content plate, no frame, no real-world concert objects, no lettering. Preserve the original sophisticated visual identity.",
+      "kind": "reference-constrained-reconstruction",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/bubble-live.jpg",
+      "reference": "神图53_广州泡沫泡泡环绕大屏.jpg"
+    },
+    {
+      "id": "heart-live",
+      "prompt": "Use case: precise-object-edit. Reconstruct only the EXACT heart-shaped mechanical diamond artwork displayed in the center of this concert reference as a clean, straight-on, premium CGI plate. Giant clear violet gemstone heart with polished layered chrome silver geometric rim, transparent intricate clockwork and small internal gem mechanisms. Keep the precise heart silhouette, the violet-black and silver material identity. Remove singers, crowd, real stage, truss, speakers, text and camera tilt. Heart should be frontal, centered, and nearly fill the height of a wide 3:1 panoramic navy image, with restrained violet-white glow and scattered tiny crystals extending to either side, pure LED art with no borders. Photorealistic ray-traced metal and crystal, no flat icon, no new shapes.",
+      "kind": "reference-constrained-reconstruction",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/heart-live.jpg",
+      "reference": "大屏23_新的心跳钻石爱心裸眼3D大屏.jpg"
+    },
+    {
+      "id": "blackhole-live",
+      "prompt": "Use case: precise-object-edit. Reconstruct ONLY the original screen's red-gold-black swirling cosmic black hole CGI from this concert reference as a clean frontal 3:1 panoramic LED art image. Keep a perfectly round black event horizon in the center, tilted glowing red-gold accretion ring and intricate swirling hot particles, deep violet-black space. Remove singers, audience, lighting rig, hanging speakers, lyrics, podiums and stage. Extend the dark starry space naturally to sides. Do not distort the black hole into an ellipse. Heart of image must be dark, ring rich and detailed with no white clipping. High-end cinematic astronomical CGI, pure artwork, no text or frame.",
+      "kind": "reference-constrained-reconstruction",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/blackhole-live.jpg",
+      "reference": "大屏38_重庆光年之外黑洞漩涡大屏4K.jpg"
+    },
+    {
+      "id": "clock-live",
+      "prompt": "Use case: precise-object-edit. Reconstruct just the central original concert LED artwork: nested antique copper-gold clockwork arches recede in perfect frontal perspective to an infinitely deep bright vanishing point. Mechanical gears, ornate concentric bronze rings, fragments of pale stone arch, intricate roman-numeral time markings that are part of the clock. Keep the strong semicircular tunnel design of the input. Remove singers, floor, audience, lighting truss, speakers and all camera perspective tilt. Pure panoramic 3:1 LED artwork, photorealistic PBR bronze and aged stone, dark walnut and black shadows, warm jewel-like highlights, no added texts, no theatrical frame surrounding the image. Meticulous premium detail, never flat circles.",
+      "kind": "reference-constrained-reconstruction",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/clock-live.jpg",
+      "reference": "大屏07_三亚齿轮拱洞隧道大屏.jpg"
+    },
+    {
+      "id": "lion-live",
+      "prompt": "Use case: precise-object-edit. Reconstruct ONLY the enormous roaring golden mechanical lion CGI displayed in the upper background screen of this concert reference. Preserve this exact copper-gold sculptural lion, ornate metallic layered mane, open mouth tilted upward and fiery red-black background. Exclude the smaller physical lion lift, singer, human figures, floor, audience, platform, watermark and all real concert hardware. This is pure clean frontal LED artwork, panoramic 3:1, lion head centered nearly filling image height, realistic polished bronze-gold surfaces and intricate sculptural metal grooves. Widen left and right into deep black-red clouds and embers with no new subjects. Premium cinematic CGI and precise anatomical detail; no cartoon, no low-poly facets, no text.",
+      "kind": "reference-constrained-reconstruction",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/lion-live.jpg",
+      "reference": "10_lion_screen.jpg"
+    },
+    {
+      "id": "tree-live",
+      "prompt": "Use case: precise-object-edit. Reconstruct only the precise central stage-screen artwork in the reference: a majestic broad-canopy tree in pure black silhouette, trunk centered and branches spreading horizontally, against an intense amber-orange sunset sky with crimson clouds. Keep the flat iconic tree silhouette and radiant fiery sky of the original screen. Widen as a clean 3:1 panoramic content plate. Remove all singers and portraits, stage, audience, confetti, smoke cannons, platforms, speakers, rig and lettering. Distant low horizon with subtle sun reflection, refined atmospheric clouds. Premium cinematic visual, richly textured sky, no literal new stage or extra objects.",
+      "kind": "reference-constrained-reconstruction",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/tree-live.jpg",
+      "reference": "大屏09_三亚夕阳大树大屏视觉.jpg"
+    },
+    {
+      "id": "city",
+      "prompt": "Use case: stylized-concept. Asset type: premium panoramic concert LED environment. An immense futuristic neon metropolis at midnight with many intricately detailed skyscrapers, vibrant red and magenta vertical light traces contrasting deep indigo blue shadows. Symmetrical dramatic cinematic depth through an empty wet boulevard, elegant luminous architectural lines, a few sapphire-cyan highlights, very fine atmospheric haze and physically realistic reflections. Rich high-end cinematic science fiction environment render, NOT flat illustrative buildings, NOT a wireframe grid. Panoramic 3:1 composition, no human figures, no vehicles, no stage, no speakers, no logos or legible text.",
+      "kind": "original-environment",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/city.jpg"
+    },
+    {
+      "id": "moon",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium panoramic concert LED environment. Enormous detailed silver moon low over a serene midnight-blue mountain lake, a sharply detailed cratered lunar surface, soft cool rim glow, mist between layered mountain silhouettes, a delicate long moon reflection broken into tiny ripples on foreground dark water, sparse stars. Ultra refined astronomical landscape photography with restrained cinematic contrast, deep velvety navy and subtle lavender, never blown-out white disc. Panoramic 3:1 composition, no people, trees in foreground, concert objects, text, logos or frame.",
+      "kind": "original-environment",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/moon.jpg"
+    },
+    {
+      "id": "aurora",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium panoramic concert LED scenic artwork. A majestic flowing aurora borealis canopy in mint green and subtle lilac over dark distant arctic peaks, exceptional vertical filaments in the glowing aurora ribbons, calm black lake reflection at bottom, hundreds of tiny stars. Photorealistic night landscape with extremely refined cinematic exposure, deep navy nearly-black shadows, soft luminous highlights, understated elegance. Wide 3:1 panorama, no letters, no people or stage objects, no flat polygon mountains, no hard waveform stripes.",
+      "kind": "original-environment",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/aurora.jpg"
+    },
+    {
+      "id": "dawn",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium panoramic concert LED scenic artwork. A breathtaking luminous sunrise above a vast sea of soft billowing clouds, warm golden light radiating from the horizon near center, delicate pink and lilac upper sky, finely layered volumetric clouds in foreground with cool blue shadows and subtle warm rim illumination. Photorealistic high altitude cinematic environment, extremely detailed, gentle and optimistic, no cartoon shapes, no pure white blowout. Wide 3:1 panorama, no people, text, birds, frames, audience, stage or hardware.",
+      "kind": "original-environment",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/dawn.jpg"
+    },
+    {
+      "id": "wings-live",
+      "prompt": "Use case: identity-preserve. Reconstruct the exact concert-screen artwork from this reference as a high resolution, straight-on panoramic 3:1 LED content plate. Preserve the central G.E.M. singer's actual face, identity, hairstyle, bronze corset outfit, jewelry, pose, microphone, hands and proportions exactly. Preserve the large bright purple-pink-white feathered angel wings stretching from behind her body; extend the wings naturally so that both whole wings fill this wide image and feather detail stays highly refined. Her head and torso occupy the central fifth of the panorama. Remove the real-world stage floor, audience, rig, physical platform and all watermarks or lettering; the background should be a seamless deep velvety indigo. No text, no frames. This is purely a cleaner wider version of the same original screen artwork, never an illustration or new costume.",
+      "kind": "reference-constrained-reconstruction",
+      "reference": "神图46_启德紫粉色翅膀大屏.jpg",
+      "tool": "built-in image_gen",
+      "savedAsset": "public/stage/scenes/wings-live.jpg"
+    }
+  ]
+}

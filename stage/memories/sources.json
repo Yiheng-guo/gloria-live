@@ -1,0 +1,403 @@
+{
+  "kind": "supplied-performance-photo-montage",
+  "count": 30,
+  "columns": 6,
+  "rows": 5,
+  "cellSize": 384,
+  "width": 2304,
+  "height": 1920,
+  "attribution": "用户提供的演出照片合集；不冒充原版回忆墙影像或私人相册。",
+  "occasion": "城市、日期及歌曲不由素材文件名推断。",
+  "entries": [
+    {
+      "slot": 0,
+      "id": "collection-looks-02",
+      "title": "古铜金服装低头近景",
+      "sourceTitle": "神图02_古铜金亮片战袍低头特写.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/naFFVPOc77",
+      "sourcePath": "./stage/photos/collection-looks-02-large.jpg",
+      "sha256": "97f194361b0d9d38c3bb69f62ec28006ff267821fe8910750b408308a7e63bcd",
+      "focus": [
+        0.5,
+        0.16
+      ]
+    },
+    {
+      "slot": 1,
+      "id": "collection-looks-03",
+      "title": "白色卫衣与牛仔裤",
+      "sourceTitle": "神图03_白色IAMGLORIA卫衣牛仔比耶.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/TE8gKlqDCR",
+      "sourcePath": "./stage/photos/collection-looks-03-large.jpg",
+      "sha256": "551c86e86c58a46b8e12e20ed81f79a3abb0149faf7d2561da9fdd1cc64e2257",
+      "focus": [
+        0.5,
+        0.2
+      ]
+    },
+    {
+      "slot": 2,
+      "id": "collection-looks-04",
+      "title": "白色礼服与橙色背景",
+      "sourceTitle": "神图04_白色礼服橙色晚霞深圳收官.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/l5A9wUifD0",
+      "sourcePath": "./stage/photos/collection-looks-04-large.jpg",
+      "sha256": "38cb943fea786baa8de74b86721b4911d3c399b3bed57527aade15ada034da4e",
+      "focus": [
+        0.5,
+        0.16
+      ]
+    },
+    {
+      "slot": 3,
+      "id": "collection-looks-05",
+      "title": "古铜色礼服展开双臂",
+      "sourceTitle": "神图05_古铜金战袍展开双臂天津场.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/ANDpFyhngv",
+      "sourcePath": "./stage/photos/collection-looks-05-large.jpg",
+      "sha256": "6a04bcc2fb181e9f21ba9131e864aae22bed07c1ea1bf271460ec36bf3558632",
+      "focus": [
+        0.5,
+        0.32
+      ]
+    },
+    {
+      "slot": 4,
+      "id": "collection-looks-11",
+      "title": "白帽与红色墙面",
+      "sourceTitle": "神图11_白色女爵帽红墙造型.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/10eFz9L8XE",
+      "sourcePath": "./stage/photos/collection-looks-11-large.jpg",
+      "sha256": "d4c0e28da06dd16703a4b7de1a707212c231814a9585117e9475699bcc4397f6",
+      "focus": [
+        0.5,
+        0.2
+      ]
+    },
+    {
+      "slot": 5,
+      "id": "collection-looks-14",
+      "title": "红色流苏战袍",
+      "sourceTitle": "神图14_广州跨年红战袍光年之外.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/Iv7vUYSZUU",
+      "sourcePath": "./stage/photos/collection-looks-14-large.jpg",
+      "sha256": "9b7bd8aa6658ba3d3e7baf9eda7db76490034b6b222f9880b08a97c802ee891b",
+      "focus": [
+        0.5,
+        0.25
+      ]
+    },
+    {
+      "slot": 6,
+      "id": "collection-looks-17",
+      "title": "白色卫衣与透明泡泡",
+      "sourceTitle": "神图17_泡沫泡泡特写白卫衣IAMGLORIA.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/kfhVW7OgLP",
+      "sourcePath": "./stage/photos/collection-looks-17-large.jpg",
+      "sha256": "578068ebdb0a09fabc2ca35a312af0210471615a3ab794ae577363d4d6d31db5",
+      "focus": [
+        0.5,
+        0.32
+      ]
+    },
+    {
+      "slot": 7,
+      "id": "collection-looks-18",
+      "title": "白色卫衣持麦近景",
+      "sourceTitle": "神图18_广州encore泡沫白卫衣泡泡.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/JkwVMA0PVz",
+      "sourcePath": "./stage/photos/collection-looks-18-large.jpg",
+      "sha256": "72203f0c416f9717064ef0312ba06e25f49cf749812a85cfb5c0391cea9870b9",
+      "focus": [
+        0.52,
+        0.35
+      ]
+    },
+    {
+      "slot": 8,
+      "id": "collection-looks-21",
+      "title": "白金肩饰礼服近景",
+      "sourceTitle": "神图21_鸟巢白礼服紫底唱歌特写.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/JdYOlKOCns",
+      "sourcePath": "./stage/photos/collection-looks-21-large.jpg",
+      "sha256": "fa9cf6f1d1bb3743a8367229141c69f2ec211ad62b06977ba461bcdbf01ce257",
+      "focus": [
+        0.5,
+        0.32
+      ]
+    },
+    {
+      "slot": 9,
+      "id": "collection-looks-22",
+      "title": "白色短礼服全身",
+      "sourceTitle": "神图22_鸟巢白礼服黑底全身站.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/CPQRjEFGX5",
+      "sourcePath": "./stage/photos/collection-looks-22-large.jpg",
+      "sha256": "2fd62940701002536be1d13aec9531d9d4208d3f00f362db2408653fca113377",
+      "focus": [
+        0.5,
+        0.2
+      ]
+    },
+    {
+      "slot": 10,
+      "id": "collection-looks-24",
+      "title": "白色纱裙与头纱",
+      "sourceTitle": "神图24_鸟巢白婚纱造型.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/gnPVKunTss",
+      "sourcePath": "./stage/photos/collection-looks-24-large.jpg",
+      "sha256": "55b8c23e255042eb7857c29e7fa39017fee9ae409a245e7ddc84bbe2dca1e93a",
+      "focus": [
+        0.5,
+        0.32
+      ]
+    },
+    {
+      "slot": 11,
+      "id": "collection-looks-26",
+      "title": "粉色闪光礼服",
+      "sourceTitle": "神图26_鸟巢粉色礼服挥手.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/gMxStiKvi5",
+      "sourcePath": "./stage/photos/collection-looks-26-large.jpg",
+      "sha256": "b46962412ed213c7cc620a57d801d5f1d5140b732aed4a7d1fe7d615a659d1bc",
+      "focus": [
+        0.5,
+        0.32
+      ]
+    },
+    {
+      "slot": 12,
+      "id": "collection-looks-28",
+      "title": "白T与粉色工装裤",
+      "sourceTitle": "神图28_香港启德白T粉裤比耶.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/ZV9JTSR7iP",
+      "sourcePath": "./stage/photos/collection-looks-28-large.jpg",
+      "sha256": "f30d58ba8a3fa1500565cc275a8374164dbbdf037cf79cafbbff8e61c00a6358",
+      "focus": [
+        0.5,
+        0.24
+      ]
+    },
+    {
+      "slot": 13,
+      "id": "collection-looks-30",
+      "title": "白T牛仔造型指向天空",
+      "sourceTitle": "神图30_香港启德白T牛仔抬手指天.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/mZfJHSqns8",
+      "sourcePath": "./stage/photos/collection-looks-30-large.jpg",
+      "sha256": "f7eb97da7863551d6e78ab44fb7a37b713ddd33f9a5b22dfa2410bf2036b981a",
+      "focus": [
+        0.5,
+        0.25
+      ]
+    },
+    {
+      "slot": 14,
+      "id": "collection-looks-31",
+      "title": "蓝色GEM球衣",
+      "sourceTitle": "神图31_香港启德蓝色GEM球衣演唱.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/1iVV8rBSCh",
+      "sourcePath": "./stage/photos/collection-looks-31-large.jpg",
+      "sha256": "dd0f1fe34be5ad2c5256e1edf8ca4aa081ebcdc3fb507b34813b1065d4b23f2b",
+      "focus": [
+        0.5,
+        0.05
+      ]
+    },
+    {
+      "slot": 15,
+      "id": "collection-looks-32",
+      "title": "串链上衣与层叠短裙",
+      "sourceTitle": "神图32_香港启德棕链牛仔裙现代女牛仔.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/j0oBOvyfgV",
+      "sourcePath": "./stage/photos/collection-looks-32-large.jpg",
+      "sha256": "13d7d1746232992507df17c544dfe2105d80697feb795d3653bb48a84d400594",
+      "focus": [
+        0.5,
+        0.23
+      ]
+    },
+    {
+      "slot": 16,
+      "id": "collection-looks-35",
+      "title": "白色宽松上衣挥手近景",
+      "sourceTitle": "神图35_佛山白T抬手谢幕.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/OE7WYmTIwC",
+      "sourcePath": "./stage/photos/collection-looks-35-large.jpg",
+      "sha256": "a135ed18249eb9edd3a94ccf559ea422b7d882b8ae76d6c98bd66fb8ef2136ae",
+      "focus": [
+        0.5,
+        0.32
+      ]
+    },
+    {
+      "slot": 17,
+      "id": "collection-looks-55",
+      "title": "黑金刺绣战袍近景",
+      "sourceTitle": "神图55_黑金刺绣礼服金流苏演唱.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/VvUVcedv13",
+      "sourcePath": "./stage/photos/collection-looks-55-large.jpg",
+      "sha256": "d704e188d7002188dee63770423aad69719a79f38e310f587220838b9505a9f8",
+      "focus": [
+        0.5,
+        0.24
+      ]
+    },
+    {
+      "slot": 18,
+      "id": "collection-looks-41",
+      "title": "红色战袍侧背影",
+      "sourceTitle": "神图41_广州红战袍背面演唱.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/gEJVLcRVee",
+      "sourcePath": "./stage/photos/collection-looks-41-large.jpg",
+      "sha256": "4db3116248114a4c8a59bc9c04f192cd83a251b5cfdcd66526f1cce9fbcef8d6",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    },
+    {
+      "slot": 19,
+      "id": "collection-looks-43",
+      "title": "红色战袍与黑白金狮",
+      "sourceTitle": "神图43_吉隆坡红战袍骑机械狮黑白背景.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/mDJm9kZqTB",
+      "sourcePath": "./stage/photos/collection-looks-43-large.jpg",
+      "sha256": "f4b1c987426d89977459498fe7dc221bbde1bc322b667ce2806e5083e060669b",
+      "focus": [
+        0.5,
+        0.08
+      ]
+    },
+    {
+      "slot": 20,
+      "id": "collection-looks-44",
+      "title": "棕金刺绣无袖造型",
+      "sourceTitle": "神图44_吉隆坡棕色刺绣无袖礼服微笑.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/Sfb1YlZVuj",
+      "sourcePath": "./stage/photos/collection-looks-44-large.jpg",
+      "sha256": "fd47016bb58a055c49b03f7fe5f403fa9d74b6a5e94b3b988e6d596fee43828a",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    },
+    {
+      "slot": 21,
+      "id": "collection-looks-45",
+      "title": "橙红条纹长裙",
+      "sourceTitle": "神图45_吉隆坡橙红流苏长裙演唱.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/98xBtwhvyF",
+      "sourcePath": "./stage/photos/collection-looks-45-large.jpg",
+      "sha256": "afc08d781f48e539d655ab4d05d5c6baf3c8c5530f9eb7c0cae507d3ce746079",
+      "focus": [
+        0.5,
+        0.22
+      ]
+    },
+    {
+      "slot": 22,
+      "id": "collection-looks-46",
+      "title": "红色短外套演唱近景",
+      "sourceTitle": "神图46_吉隆坡红战袍红光圈特写.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/KMDdz8NqZE",
+      "sourcePath": "./stage/photos/collection-looks-46-large.jpg",
+      "sha256": "87e391d1e19957ef0247b34fabc75d4758ecf2a2d1f216bd3f32c16582deaf52",
+      "focus": [
+        0.5,
+        0.23
+      ]
+    },
+    {
+      "slot": 23,
+      "id": "collection-looks-47",
+      "title": "红色战袍举手造型",
+      "sourceTitle": "神图47_吉隆坡红战袍举手全景.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/b21KU84OyE",
+      "sourcePath": "./stage/photos/collection-looks-47-large.jpg",
+      "sha256": "5f8ea02f833d5c7dcc49d2495b7de9b11f23fde7a002224e713f2993598a7a19",
+      "focus": [
+        0.5,
+        0.16
+      ]
+    },
+    {
+      "slot": 24,
+      "id": "collection-looks-48",
+      "title": "白色头纱与挥手",
+      "sourceTitle": "神图48_吉隆坡婚纱金鱼嘴挥手.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/cl3LaMxN6L",
+      "sourcePath": "./stage/photos/collection-looks-48-large.jpg",
+      "sha256": "3d979fd11e736a0cc947bc35918f76fed128ca7762d1eb9248cc2b47aeca6dec",
+      "focus": [
+        0.5,
+        0.24
+      ]
+    },
+    {
+      "slot": 25,
+      "id": "collection-looks-51",
+      "title": "雨中人像截帧",
+      "sourceTitle": "神图51_上海暴雨WalkOnWater特写.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/o46ZU5PKCa",
+      "sourcePath": "./stage/photos/collection-looks-51-large.jpg",
+      "sha256": "163ca8eda57ab9a67469be610adb617affaaef7852367440dd3ce5214892c413",
+      "focus": [
+        0.5,
+        0.32
+      ]
+    },
+    {
+      "slot": 26,
+      "id": "collection-looks-52",
+      "title": "棕黑串链服装持麦",
+      "sourceTitle": "神图52_上海棕链礼服唯一特写.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/IHNnxbJRh3",
+      "sourcePath": "./stage/photos/collection-looks-52-large.jpg",
+      "sha256": "693d3238dc897eb875c0249c78b0005fe30a2c9c54c22097f99ed3f972ceada9",
+      "focus": [
+        0.5,
+        0.15
+      ]
+    },
+    {
+      "slot": 27,
+      "id": "collection-looks-53",
+      "title": "白金礼服正面造型",
+      "sourceTitle": "神图53_白礼服金流苏头饰特写.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/TpN5ej6KxL",
+      "sourcePath": "./stage/photos/collection-looks-53-large.jpg",
+      "sha256": "9972fd5a157bcd3081b6e89f3eb2bb795853d5d4582da67e1eec6cffcbfe2977",
+      "focus": [
+        0.5,
+        0.16
+      ]
+    },
+    {
+      "slot": 28,
+      "id": "collection-looks-54",
+      "title": "蓝色镂空钻饰礼服",
+      "sourceTitle": "神图54_蓝钻镂空礼服金话筒.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/NIiv8fp4ok",
+      "sourcePath": "./stage/photos/collection-looks-54-large.jpg",
+      "sha256": "3b6986e83fee717d721dc887c3478a663e4c9224c9bdc35059c1fcc103dbd626",
+      "focus": [
+        0.5,
+        0.16
+      ]
+    },
+    {
+      "slot": 29,
+      "id": "collection-looks-57",
+      "title": "白帽与轻纱白衣",
+      "sourceTitle": "神图57_白女爵帽纱裙侧面.jpg",
+      "sourceURL": "https://aka.doubaocdn.com/s/vde7rv1S6I",
+      "sourcePath": "./stage/photos/collection-looks-57-large.jpg",
+      "sha256": "5dbedba997006b160d946f3aef50d3d25e1c9efe6e1f12ea5f8398da1589c131",
+      "focus": [
+        0.5,
+        0.2
+      ]
+    }
+  ]
+}
