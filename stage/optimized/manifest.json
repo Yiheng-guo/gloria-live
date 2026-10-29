@@ -1,0 +1,1504 @@
+{
+  "schema": 1,
+  "product": "gloria-live",
+  "format": "WebP",
+  "policy": {
+    "generatedSceneryQuality": 90,
+    "photographicQuality": 94,
+    "dimensions": "preserved",
+    "originals": "untouched",
+    "largerDerivatives": "keep original JPEG in transport mapping",
+    "conversion": "FFmpeg libwebp; no generated or repainted content",
+    "measurement": "decoded luminance SSIM against original JPEG; not a perceptual identity guarantee"
+  },
+  "totals": {
+    "images": 55,
+    "webpUsed": 42,
+    "originalKept": 13,
+    "originalBytes": 35289429,
+    "webpBytes": 20311626,
+    "transportBytes": 19930622,
+    "savedBytes": 15358807,
+    "reductionPercent": 43.52,
+    "lumaSSIMMin": 0.985583
+  },
+  "groups": {
+    "memory": {
+      "images": 1,
+      "webpUsed": 1,
+      "originalKept": 0,
+      "originalBytes": 1409578,
+      "webpBytes": 1046396,
+      "transportBytes": 1046396,
+      "savedBytes": 363182,
+      "lumaSSIMMin": 0.995807,
+      "reductionPercent": 25.77
+    },
+    "portrait": {
+      "images": 11,
+      "webpUsed": 5,
+      "originalKept": 6,
+      "originalBytes": 2952222,
+      "webpBytes": 2893696,
+      "transportBytes": 2739059,
+      "savedBytes": 213163,
+      "lumaSSIMMin": 0.994628,
+      "reductionPercent": 7.22
+    },
+    "scenic": {
+      "images": 41,
+      "webpUsed": 34,
+      "originalKept": 7,
+      "originalBytes": 29399238,
+      "webpBytes": 15382876,
+      "transportBytes": 15156509,
+      "savedBytes": 14242729,
+      "lumaSSIMMin": 0.985583,
+      "reductionPercent": 48.45
+    },
+    "world": {
+      "images": 2,
+      "webpUsed": 2,
+      "originalKept": 0,
+      "originalBytes": 1528391,
+      "webpBytes": 988658,
+      "transportBytes": 988658,
+      "savedBytes": 539733,
+      "lumaSSIMMin": 0.992397,
+      "reductionPercent": 35.31
+    }
+  },
+  "entries": [
+    {
+      "source": "./stage/memories/full-stop-atlas.jpg",
+      "group": "memory",
+      "quality": 94,
+      "origins": [
+        "MEMORY_MOSAIC"
+      ],
+      "actualUrl": "./stage/optimized/memories/full-stop-atlas.webp",
+      "webpUrl": "./stage/optimized/memories/full-stop-atlas.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2304,
+      "height": 1920,
+      "originalBytes": 1409578,
+      "webpBytes": 1046396,
+      "transportBytes": 1046396,
+      "savedBytes": 363182,
+      "sourceSha256": "702e9c82e283e524867c75e4574809e91e8018068d1314c361090c1e5521989d",
+      "webpSha256": "3ae32575e07565ec1cab2d90709292092cca6adf9b5c0343f635cd854a701a6b",
+      "lumaSSIM": 0.995807
+    },
+    {
+      "source": "./stage/photos/01-large.jpg",
+      "group": "portrait",
+      "quality": 94,
+      "origins": [
+        "SCREEN_PORTRAITS"
+      ],
+      "actualUrl": "./stage/optimized/photos/01-large.webp",
+      "webpUrl": "./stage/optimized/photos/01-large.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": true,
+        "description": "sRGB",
+        "preserveOriginal": false
+      },
+      "width": 1075,
+      "height": 1600,
+      "originalBytes": 581798,
+      "webpBytes": 462626,
+      "transportBytes": 462626,
+      "savedBytes": 119172,
+      "sourceSha256": "36227482cf0f69dcacee8a859b4fcb5e7f844731ffaf437fd07bb6d77618eeb9",
+      "webpSha256": "cb0eac0145e804aaeb736605c2d57ce1806e8e7fc08d65570fb5795364dbd966",
+      "lumaSSIM": 0.995621
+    },
+    {
+      "source": "./stage/photos/13-large.jpg",
+      "group": "scenic",
+      "quality": 94,
+      "origins": [
+        "DIRECTED_SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/photos/13-large.webp",
+      "webpUrl": "./stage/optimized/photos/13-large.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1076,
+      "height": 608,
+      "originalBytes": 376037,
+      "webpBytes": 274852,
+      "transportBytes": 274852,
+      "savedBytes": 101185,
+      "sourceSha256": "38a29c09072b873800c5e4ce8cde613ac1c9ca89fd7d094a60914a7e087d7398",
+      "webpSha256": "32492dde453fef8d0f29b08a899f678a7496042ffda712e3582e7ce8dac51267",
+      "lumaSSIM": 0.997003
+    },
+    {
+      "source": "./stage/photos/collection-looks-03-large.jpg",
+      "group": "portrait",
+      "quality": 94,
+      "origins": [
+        "SCREEN_PORTRAITS"
+      ],
+      "actualUrl": "./stage/photos/collection-looks-03-large.jpg",
+      "webpUrl": null,
+      "derivativePublished": false,
+      "transport": "original-jpeg-smaller",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 690,
+      "height": 1035,
+      "originalBytes": 146493,
+      "webpBytes": 150500,
+      "transportBytes": 146493,
+      "savedBytes": 0,
+      "sourceSha256": "551c86e86c58a46b8e12e20ed81f79a3abb0149faf7d2561da9fdd1cc64e2257",
+      "webpSha256": "3b7063dcc4c113796c7a4c68d117d00802d851b973001c9ee53d880a336ea0e3",
+      "lumaSSIM": 0.996948
+    },
+    {
+      "source": "./stage/photos/collection-looks-18-large.jpg",
+      "group": "portrait",
+      "quality": 94,
+      "origins": [
+        "SCREEN_PORTRAITS"
+      ],
+      "actualUrl": "./stage/photos/collection-looks-18-large.jpg",
+      "webpUrl": null,
+      "derivativePublished": false,
+      "transport": "original-jpeg-smaller",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1440,
+      "height": 1080,
+      "originalBytes": 142794,
+      "webpBytes": 149834,
+      "transportBytes": 142794,
+      "savedBytes": 0,
+      "sourceSha256": "72203f0c416f9717064ef0312ba06e25f49cf749812a85cfb5c0391cea9870b9",
+      "webpSha256": "1e8eed74e4ad68b9e9c4416c092e72dd24152962a717c10bfe7fd996adb41b1d",
+      "lumaSSIM": 0.995046
+    },
+    {
+      "source": "./stage/photos/collection-looks-32-large.jpg",
+      "group": "portrait",
+      "quality": 94,
+      "origins": [
+        "SCREEN_PORTRAITS"
+      ],
+      "actualUrl": "./stage/photos/collection-looks-32-large.jpg",
+      "webpUrl": null,
+      "derivativePublished": false,
+      "transport": "original-jpeg-smaller",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 776,
+      "height": 1034,
+      "originalBytes": 144503,
+      "webpBytes": 158148,
+      "transportBytes": 144503,
+      "savedBytes": 0,
+      "sourceSha256": "13d7d1746232992507df17c544dfe2105d80697feb795d3653bb48a84d400594",
+      "webpSha256": "60da4d4123306d1ab92595725331f59100f40da235759d0a39a233c981d35f3c",
+      "lumaSSIM": 0.99468
+    },
+    {
+      "source": "./stage/photos/collection-looks-46-large.jpg",
+      "group": "portrait",
+      "quality": 94,
+      "origins": [
+        "SCREEN_PORTRAITS"
+      ],
+      "actualUrl": "./stage/optimized/photos/collection-looks-46-large.webp",
+      "webpUrl": "./stage/optimized/photos/collection-looks-46-large.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1280,
+      "height": 1600,
+      "originalBytes": 324080,
+      "webpBytes": 306996,
+      "transportBytes": 306996,
+      "savedBytes": 17084,
+      "sourceSha256": "87e391d1e19957ef0247b34fabc75d4758ecf2a2d1f216bd3f32c16582deaf52",
+      "webpSha256": "d6a060b6848eba83fbab987e799508e7e8dfe87ab490bfa0a9e2c292fdc6f3e6",
+      "lumaSSIM": 0.99629
+    },
+    {
+      "source": "./stage/photos/collection-looks-52-large.jpg",
+      "group": "portrait",
+      "quality": 94,
+      "origins": [
+        "SCREEN_PORTRAITS"
+      ],
+      "actualUrl": "./stage/optimized/photos/collection-looks-52-large.webp",
+      "webpUrl": "./stage/optimized/photos/collection-looks-52-large.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1141,
+      "height": 1600,
+      "originalBytes": 167055,
+      "webpBytes": 124624,
+      "transportBytes": 124624,
+      "savedBytes": 42431,
+      "sourceSha256": "693d3238dc897eb875c0249c78b0005fe30a2c9c54c22097f99ed3f972ceada9",
+      "webpSha256": "4c4467d26d49ddae8852a0ff1fcc4e9313bbdffe334da28a8faa1a8ea4817c92",
+      "lumaSSIM": 0.996832
+    },
+    {
+      "source": "./stage/photos/collection-looks-53-large.jpg",
+      "group": "portrait",
+      "quality": 94,
+      "origins": [
+        "SCREEN_PORTRAITS"
+      ],
+      "actualUrl": "./stage/optimized/photos/collection-looks-53-large.webp",
+      "webpUrl": "./stage/optimized/photos/collection-looks-53-large.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1000,
+      "height": 1500,
+      "originalBytes": 214194,
+      "webpBytes": 199260,
+      "transportBytes": 199260,
+      "savedBytes": 14934,
+      "sourceSha256": "9972fd5a157bcd3081b6e89f3eb2bb795853d5d4582da67e1eec6cffcbfe2977",
+      "webpSha256": "ff339b10294e669ffadba9d5d507ef61cf25122abef856d53c8db8fbcb5ba43b",
+      "lumaSSIM": 0.995596
+    },
+    {
+      "source": "./stage/photos/collection-looks-54-large.jpg",
+      "group": "portrait",
+      "quality": 94,
+      "origins": [
+        "SCREEN_PORTRAITS"
+      ],
+      "actualUrl": "./stage/photos/collection-looks-54-large.jpg",
+      "webpUrl": null,
+      "derivativePublished": false,
+      "transport": "original-jpeg-smaller",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1000,
+      "height": 1500,
+      "originalBytes": 503061,
+      "webpBytes": 555716,
+      "transportBytes": 503061,
+      "savedBytes": 0,
+      "sourceSha256": "3b6986e83fee717d721dc887c3478a663e4c9224c9bdc35059c1fcc103dbd626",
+      "webpSha256": "49bf3b821c75dc38addc29897fb6cfa5f13c2f6e62c5aec4b2848159d0fa5544",
+      "lumaSSIM": 0.995124
+    },
+    {
+      "source": "./stage/photos/collection-looks-55-large.jpg",
+      "group": "portrait",
+      "quality": 94,
+      "origins": [
+        "SCREEN_PORTRAITS"
+      ],
+      "actualUrl": "./stage/photos/collection-looks-55-large.jpg",
+      "webpUrl": null,
+      "derivativePublished": false,
+      "transport": "original-jpeg-smaller",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1000,
+      "height": 1500,
+      "originalBytes": 331512,
+      "webpBytes": 365782,
+      "transportBytes": 331512,
+      "savedBytes": 0,
+      "sourceSha256": "d704e188d7002188dee63770423aad69719a79f38e310f587220838b9505a9f8",
+      "webpSha256": "56c94c303b36b45b661fe0c1f70e2c8a94c2c73c5877bfe4e99c2baf87912347",
+      "lumaSSIM": 0.996032
+    },
+    {
+      "source": "./stage/photos/collection-looks-57-large.jpg",
+      "group": "portrait",
+      "quality": 94,
+      "origins": [
+        "SCREEN_PORTRAITS"
+      ],
+      "actualUrl": "./stage/optimized/photos/collection-looks-57-large.webp",
+      "webpUrl": "./stage/optimized/photos/collection-looks-57-large.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1000,
+      "height": 1333,
+      "originalBytes": 179766,
+      "webpBytes": 160224,
+      "transportBytes": 160224,
+      "savedBytes": 19542,
+      "sourceSha256": "5dbedba997006b160d946f3aef50d3d25e1c9efe6e1f12ea5f8398da1589c131",
+      "webpSha256": "935a1bc1f99798a4cdc7c9a1f023b0a22c8e7a556e1b969d3a44887004ad6ad0",
+      "lumaSSIM": 0.994628
+    },
+    {
+      "source": "./stage/photos/collection-screen-05-large.jpg",
+      "group": "scenic",
+      "quality": 94,
+      "origins": [
+        "DIRECTED_SCREEN_ART"
+      ],
+      "actualUrl": "./stage/photos/collection-screen-05-large.jpg",
+      "webpUrl": null,
+      "derivativePublished": false,
+      "transport": "original-jpeg-smaller",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1600,
+      "height": 1000,
+      "originalBytes": 259407,
+      "webpBytes": 262260,
+      "transportBytes": 259407,
+      "savedBytes": 0,
+      "sourceSha256": "52a9457499f82d85879a2a9941bfa10eff4b728efeab4a01f47dfe38570253f1",
+      "webpSha256": "d5e879ccb6be07905911a869ebc9dbc121e72712b36d61df8c7c60d0dc1ddeb6",
+      "lumaSSIM": 0.99242
+    },
+    {
+      "source": "./stage/photos/collection-screen-12-large.jpg",
+      "group": "scenic",
+      "quality": 94,
+      "origins": [
+        "DIRECTED_SCREEN_ART"
+      ],
+      "actualUrl": "./stage/photos/collection-screen-12-large.jpg",
+      "webpUrl": null,
+      "derivativePublished": false,
+      "transport": "original-jpeg-smaller",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1600,
+      "height": 900,
+      "originalBytes": 352087,
+      "webpBytes": 401112,
+      "transportBytes": 352087,
+      "savedBytes": 0,
+      "sourceSha256": "ef74a11daa62c4387b26071420147342302f8144a796a13e5474c59c7401cfdb",
+      "webpSha256": "fccbcb27b0ee7aa18fecd7a6cca2e3cb9a5669c011760915ce3b36dbe18de065",
+      "lumaSSIM": 0.995144
+    },
+    {
+      "source": "./stage/photos/collection-screen-16-large.jpg",
+      "group": "scenic",
+      "quality": 94,
+      "origins": [
+        "DIRECTED_SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/photos/collection-screen-16-large.webp",
+      "webpUrl": "./stage/optimized/photos/collection-screen-16-large.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1600,
+      "height": 900,
+      "originalBytes": 166341,
+      "webpBytes": 153938,
+      "transportBytes": 153938,
+      "savedBytes": 12403,
+      "sourceSha256": "b22d3b384cfa833736a97846873f1b673df5cbca90068ab0c32f25475817937a",
+      "webpSha256": "b5e9b63671af76c2bd5cebbcf58a292fb33b13c57ccc8d4dee8cadb727df1914",
+      "lumaSSIM": 0.994131
+    },
+    {
+      "source": "./stage/photos/collection-stage-23-large.jpg",
+      "group": "scenic",
+      "quality": 94,
+      "origins": [
+        "DIRECTED_SCREEN_ART"
+      ],
+      "actualUrl": "./stage/photos/collection-stage-23-large.jpg",
+      "webpUrl": null,
+      "derivativePublished": false,
+      "transport": "original-jpeg-smaller",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1600,
+      "height": 900,
+      "originalBytes": 310781,
+      "webpBytes": 335862,
+      "transportBytes": 310781,
+      "savedBytes": 0,
+      "sourceSha256": "bfd5f53a1ce2f56d39558edc46d62cccbc2fdfe42cb2a48b58e1f48ce2971710",
+      "webpSha256": "cdbebb6b97de9c936d3e956745cf202fc671b5b014fce31f3db0130f813adc0a",
+      "lumaSSIM": 0.996725
+    },
+    {
+      "source": "./stage/photos/collection-stage-35-large.jpg",
+      "group": "scenic",
+      "quality": 94,
+      "origins": [
+        "DIRECTED_SCREEN_ART"
+      ],
+      "actualUrl": "./stage/photos/collection-stage-35-large.jpg",
+      "webpUrl": null,
+      "derivativePublished": false,
+      "transport": "original-jpeg-smaller",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1600,
+      "height": 900,
+      "originalBytes": 344133,
+      "webpBytes": 372116,
+      "transportBytes": 344133,
+      "savedBytes": 0,
+      "sourceSha256": "7e76e52797b092c5579cb86c82225a70b1b7f596ec15b7710a18591d7c1b994c",
+      "webpSha256": "c53e64a036151e04c0ff7e386e34262c082eddecf86f0c398cc96807e124a3b0",
+      "lumaSSIM": 0.995619
+    },
+    {
+      "source": "./stage/photos/collection-stage-38-large.jpg",
+      "group": "scenic",
+      "quality": 94,
+      "origins": [
+        "DIRECTED_SCREEN_ART"
+      ],
+      "actualUrl": "./stage/photos/collection-stage-38-large.jpg",
+      "webpUrl": null,
+      "derivativePublished": false,
+      "transport": "original-jpeg-smaller",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1600,
+      "height": 900,
+      "originalBytes": 329276,
+      "webpBytes": 387690,
+      "transportBytes": 329276,
+      "savedBytes": 0,
+      "sourceSha256": "51b21083e895b7797c4ff5ef3859f5c085eb32961d560d6dd2c0e206e95fafa6",
+      "webpSha256": "34bafbf9334b87a38c3c6ed6241775647c89895048ae2fefa4bfd5c144a469b9",
+      "lumaSSIM": 0.992624
+    },
+    {
+      "source": "./stage/photos/collection-stage-39-large.jpg",
+      "group": "scenic",
+      "quality": 94,
+      "origins": [
+        "DIRECTED_SCREEN_ART"
+      ],
+      "actualUrl": "./stage/photos/collection-stage-39-large.jpg",
+      "webpUrl": null,
+      "derivativePublished": false,
+      "transport": "original-jpeg-smaller",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1120,
+      "height": 630,
+      "originalBytes": 75334,
+      "webpBytes": 92150,
+      "transportBytes": 75334,
+      "savedBytes": 0,
+      "sourceSha256": "d52ca5bcee57bd4c1e6d7cba89cddd173fb5a2d826f43fcc29fd22333d11b96c",
+      "webpSha256": "17333fd3c5fe40781d37c754eeb74f0303cc5435c254881b550a883e556bce3d",
+      "lumaSSIM": 0.995909
+    },
+    {
+      "source": "./stage/photos/collection-stage-49-large.jpg",
+      "group": "scenic",
+      "quality": 94,
+      "origins": [
+        "DIRECTED_SCREEN_ART"
+      ],
+      "actualUrl": "./stage/photos/collection-stage-49-large.jpg",
+      "webpUrl": null,
+      "derivativePublished": false,
+      "transport": "original-jpeg-smaller",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1600,
+      "height": 1200,
+      "originalBytes": 456179,
+      "webpBytes": 502374,
+      "transportBytes": 456179,
+      "savedBytes": 0,
+      "sourceSha256": "66b4606862c1ef5f914dececd084a3d9fd75c86b3c752a98056569d66861a7ca",
+      "webpSha256": "c24068daf911c5b8a3154409f97f9a999bd374d3a3af7255c587a732bb0d95dd",
+      "lumaSSIM": 0.996009
+    },
+    {
+      "source": "./stage/photos/creative-27-large.jpg",
+      "group": "portrait",
+      "quality": 94,
+      "origins": [
+        "SCREEN_PORTRAITS"
+      ],
+      "actualUrl": "./stage/photos/creative-27-large.jpg",
+      "webpUrl": null,
+      "derivativePublished": false,
+      "transport": "original-jpeg-smaller",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1600,
+      "height": 1019,
+      "originalBytes": 216966,
+      "webpBytes": 259986,
+      "transportBytes": 216966,
+      "savedBytes": 0,
+      "sourceSha256": "a43296926b0f5831586d01ffb127f949576442a22ec3af4f1ead10a4734631bb",
+      "webpSha256": "ebdfb517f2a64bdae8be212c2fb2f4fee9f01d86d864a00ec5464cfb50c41929",
+      "lumaSSIM": 0.996336
+    },
+    {
+      "source": "./stage/scenes/ainy-silk-hd.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/ainy-silk-hd.webp",
+      "webpUrl": "./stage/optimized/scenes/ainy-silk-hd.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 1125864,
+      "webpBytes": 477078,
+      "transportBytes": 477078,
+      "savedBytes": 648786,
+      "sourceSha256": "82be437911790013353a3d93cbaa41f3af921dfd060f8a55f1877da0789b005f",
+      "webpSha256": "e71fe4a37400d891bc77d11a7bb9d7f997b8b94079c9dc4b0a91b22cebb60aca",
+      "lumaSSIM": 0.991954
+    },
+    {
+      "source": "./stage/scenes/aurora.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/aurora.webp",
+      "webpUrl": "./stage/optimized/scenes/aurora.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 590255,
+      "webpBytes": 297952,
+      "transportBytes": 297952,
+      "savedBytes": 292303,
+      "sourceSha256": "3e628188810f94de9fac9e2c63c03ca3d4438b3b1d626de2a09d8a7f317c2c3f",
+      "webpSha256": "e4178cac0c5201722a062d04ba0428e0dc6aca2c9b8bb9232ee295bb6232b38a",
+      "lumaSSIM": 0.985583
+    },
+    {
+      "source": "./stage/scenes/blackhole-live.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/blackhole-live.webp",
+      "webpUrl": "./stage/optimized/scenes/blackhole-live.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2164,
+      "height": 727,
+      "originalBytes": 964912,
+      "webpBytes": 466054,
+      "transportBytes": 466054,
+      "savedBytes": 498858,
+      "sourceSha256": "bcd7f2251070f8657c4bd94738eb813194d9d007396ebeabcc21e857ad7dc91a",
+      "webpSha256": "f1071ebc292b673b94e529a1d5ac0a2c15686f927480e4ef87b2f21a862e7ae7",
+      "lumaSSIM": 0.990059
+    },
+    {
+      "source": "./stage/scenes/bubble-live.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/bubble-live.webp",
+      "webpUrl": "./stage/optimized/scenes/bubble-live.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 629096,
+      "webpBytes": 267110,
+      "transportBytes": 267110,
+      "savedBytes": 361986,
+      "sourceSha256": "ee8c428f0ec5eb63a423164a187607e6c914eee2772e78f8b67013cf29a7e907",
+      "webpSha256": "14a40daac123f19c364fcc743102e113fd1617feb80f01047388f63364512e49",
+      "lumaSSIM": 0.988323
+    },
+    {
+      "source": "./stage/scenes/city.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/city.webp",
+      "webpUrl": "./stage/optimized/scenes/city.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 980712,
+      "webpBytes": 486772,
+      "transportBytes": 486772,
+      "savedBytes": 493940,
+      "sourceSha256": "718a53861959e00b7dad94b84ab8bd94cb46b416e4db7fbf8dd2fa3b72750809",
+      "webpSha256": "4f64c9b86533fb55ae5d0fc1282274841368a2e2055e5dea086a785b14f39a9a",
+      "lumaSSIM": 0.992455
+    },
+    {
+      "source": "./stage/scenes/clock-live.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/clock-live.webp",
+      "webpUrl": "./stage/optimized/scenes/clock-live.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 1225755,
+      "webpBytes": 643052,
+      "transportBytes": 643052,
+      "savedBytes": 582703,
+      "sourceSha256": "8b7a0040a176bc1e264901640bc8de2262f92a4403e11f6b672383194131ec04",
+      "webpSha256": "aeabafabbe689a205eed72a7d8a6a04dd9c172af4449b810ea17ff93a8125111",
+      "lumaSSIM": 0.994527
+    },
+    {
+      "source": "./stage/scenes/dawn.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/dawn.webp",
+      "webpUrl": "./stage/optimized/scenes/dawn.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 517125,
+      "webpBytes": 211350,
+      "transportBytes": 211350,
+      "savedBytes": 305775,
+      "sourceSha256": "6a2fedf1d17e7c3d92a0b15ef8b119b007b247dd61eb7eff6c196c94832c8791",
+      "webpSha256": "810c0d4682e47275d044690ab86e1f3ba6c81f17baf8b002ca96b6793c4968f1",
+      "lumaSSIM": 0.989636
+    },
+    {
+      "source": "./stage/scenes/devil-architecture-hd.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/devil-architecture-hd.webp",
+      "webpUrl": "./stage/optimized/scenes/devil-architecture-hd.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 1205402,
+      "webpBytes": 542150,
+      "transportBytes": 542150,
+      "savedBytes": 663252,
+      "sourceSha256": "d0d5c4f1b96b630966f11cfccecebcbc6a795841316bfc735a27e762e92cf01f",
+      "webpSha256": "cd88aec9d6fe9afdf5125c52ad47a703c02d6ad4daaf03f2b8d9c37a422ba215",
+      "lumaSSIM": 0.993029
+    },
+    {
+      "source": "./stage/scenes/distance-cloud-hd.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/distance-cloud-hd.webp",
+      "webpUrl": "./stage/optimized/scenes/distance-cloud-hd.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2164,
+      "height": 727,
+      "originalBytes": 472945,
+      "webpBytes": 290216,
+      "transportBytes": 290216,
+      "savedBytes": 182729,
+      "sourceSha256": "b250adf0c6dfa02939b2dd02c2e976f72c1cf9c04ec3f1fe5f575dc6850f3030",
+      "webpSha256": "139898896f9e89c9ce31a2fa8e0d919c0683071f32b588b598f9bf500becc22d",
+      "lumaSSIM": 0.987193
+    },
+    {
+      "source": "./stage/scenes/goodbye-prism-hd.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/goodbye-prism-hd.webp",
+      "webpUrl": "./stage/optimized/scenes/goodbye-prism-hd.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 1345685,
+      "webpBytes": 597298,
+      "transportBytes": 597298,
+      "savedBytes": 748387,
+      "sourceSha256": "f26914d07b433f1bb02d728184c305abed310410c23b53ef448a142f2e0b9757",
+      "webpSha256": "9e1dd1e9bd89e9a07989a8b5147cd3341ef01634d1bad354f1fdd2bcea7c994b",
+      "lumaSSIM": 0.994207
+    },
+    {
+      "source": "./stage/scenes/heart-live.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/heart-live.webp",
+      "webpUrl": "./stage/optimized/scenes/heart-live.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 574766,
+      "webpBytes": 231712,
+      "transportBytes": 231712,
+      "savedBytes": 343054,
+      "sourceSha256": "3d7b65089ada74a78c3a61ce7b0a300694c542193afc2237eaeac362038aa78c",
+      "webpSha256": "f5ca5153fccff044df34484613d7222a1e3d3f75330572b0d8f6fd29c512871f",
+      "lumaSSIM": 0.993824
+    },
+    {
+      "source": "./stage/scenes/ice.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/ice.webp",
+      "webpUrl": "./stage/optimized/scenes/ice.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 946533,
+      "webpBytes": 586674,
+      "transportBytes": 586674,
+      "savedBytes": 359859,
+      "sourceSha256": "8ae880f75e60a835ac43227609f2f6e0044c804f929b4528e33aa3b511503a57",
+      "webpSha256": "ad528710f53bdcb45b38d866e397e67c89a2cf6ddae6f8b5dbf10bd922896661",
+      "lumaSSIM": 0.993778
+    },
+    {
+      "source": "./stage/scenes/intoxicated-velvet-hd.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/intoxicated-velvet-hd.webp",
+      "webpUrl": "./stage/optimized/scenes/intoxicated-velvet-hd.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 981236,
+      "webpBytes": 423666,
+      "transportBytes": 423666,
+      "savedBytes": 557570,
+      "sourceSha256": "03ee7bd822b4f1a57b3ee4a4c77ed42f438d936972693610d6f95042df059bdb",
+      "webpSha256": "699c43f1cede4cd181ba2904857a72e9e437fb715ef6e94436e6f516dfb1134b",
+      "lumaSSIM": 0.991028
+    },
+    {
+      "source": "./stage/scenes/lion-live.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/lion-live.webp",
+      "webpUrl": "./stage/optimized/scenes/lion-live.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 826809,
+      "webpBytes": 329662,
+      "transportBytes": 329662,
+      "savedBytes": 497147,
+      "sourceSha256": "f63fa1bfa4cd8f20e82783ab07e27aa34e8d14e49172bc9b449d3ec92dd7c893",
+      "webpSha256": "5770cb6e1a788a853d9f06cf98af44f7dc822154ee4396f29283f4fbb9716ec4",
+      "lumaSSIM": 0.991868
+    },
+    {
+      "source": "./stage/scenes/moon.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/moon.webp",
+      "webpUrl": "./stage/optimized/scenes/moon.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 442502,
+      "webpBytes": 191416,
+      "transportBytes": 191416,
+      "savedBytes": 251086,
+      "sourceSha256": "007a8c9fa7bef812ef92bbfbf5bad9e29da84a870ab5ffd22bf6c6795109f9e3",
+      "webpSha256": "99427630660ed12bac4a63d3908ae1be4485d3bd02578cf98ac83891cbacf3ea",
+      "lumaSSIM": 0.988984
+    },
+    {
+      "source": "./stage/scenes/not-truly-happy-hd.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/not-truly-happy-hd.webp",
+      "webpUrl": "./stage/optimized/scenes/not-truly-happy-hd.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 765324,
+      "webpBytes": 296536,
+      "transportBytes": 296536,
+      "savedBytes": 468788,
+      "sourceSha256": "2d8b7039508c53b350a7ee8be72e59926b893c4e09704eae06a97f5d5aa048e0",
+      "webpSha256": "4e748f88b9afe9d9f2ccbce8cd74e6162614de325b1e31177fa0b312547f857e",
+      "lumaSSIM": 0.989461
+    },
+    {
+      "source": "./stage/scenes/only-halo-hd.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/only-halo-hd.webp",
+      "webpUrl": "./stage/optimized/scenes/only-halo-hd.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 594535,
+      "webpBytes": 257686,
+      "transportBytes": 257686,
+      "savedBytes": 336849,
+      "sourceSha256": "412fead8df4bd83e815a67fcef9dc230e441f899b740588ab7ffd75d4264b127",
+      "webpSha256": "f9ad782e7f18334ee2defe690776166a8741fa85b308dfee99f2f5d0fd02b769",
+      "lumaSSIM": 0.989874
+    },
+    {
+      "source": "./stage/scenes/pause-cloud-hd.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/pause-cloud-hd.webp",
+      "webpUrl": "./stage/optimized/scenes/pause-cloud-hd.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 847318,
+      "webpBytes": 356128,
+      "transportBytes": 356128,
+      "savedBytes": 491190,
+      "sourceSha256": "4ae06acfe1ef0e8c49680a4f5b9c5c01c700d850243c20a00ab5502fe9a62552",
+      "webpSha256": "dd7d01b7f1a17a3b29bc58d0cfaa8f8683dd9ccd02802c6e1aaa1980b80707b8",
+      "lumaSSIM": 0.990551
+    },
+    {
+      "source": "./stage/scenes/piano-palace-hd.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/piano-palace-hd.webp",
+      "webpUrl": "./stage/optimized/scenes/piano-palace-hd.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 720974,
+      "webpBytes": 496162,
+      "transportBytes": 496162,
+      "savedBytes": 224812,
+      "sourceSha256": "9f4ac2279bbcabc14ab7ea265e327e3395e2ff8420d2c63069398b17436ea8d8",
+      "webpSha256": "7b294b3491d09dd0e0ab4b266fd8f9983382d86c45e74e26e70cd1f0d9d84084",
+      "lumaSSIM": 0.993358
+    },
+    {
+      "source": "./stage/scenes/rain.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/rain.webp",
+      "webpUrl": "./stage/optimized/scenes/rain.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2164,
+      "height": 727,
+      "originalBytes": 945219,
+      "webpBytes": 503024,
+      "transportBytes": 503024,
+      "savedBytes": 442195,
+      "sourceSha256": "81af7254b4ce0f7370d6954388c420716b2dfa3d5db3cf046921df432ad20a1b",
+      "webpSha256": "e5334a42b031fe478ce97da652810632c04ebe74fb40be30c2f74e65784efd39",
+      "lumaSSIM": 0.992616
+    },
+    {
+      "source": "./stage/scenes/redsea-live.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/redsea-live.webp",
+      "webpUrl": "./stage/optimized/scenes/redsea-live.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 999810,
+      "webpBytes": 460750,
+      "transportBytes": 460750,
+      "savedBytes": 539060,
+      "sourceSha256": "ac2405384d5cef9f824fe6f2dc954532380dc5783f9e9b321276494119dd8107",
+      "webpSha256": "357cb37a4219b69c2850a8e4c35a49ac1ced6f4437b9ef18e30b0b36668bb251",
+      "lumaSSIM": 0.990397
+    },
+    {
+      "source": "./stage/scenes/river.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/river.webp",
+      "webpUrl": "./stage/optimized/scenes/river.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 956609,
+      "webpBytes": 521452,
+      "transportBytes": 521452,
+      "savedBytes": 435157,
+      "sourceSha256": "b2d1689e8d6dabd8e2e217e20208b67f2202b2104820859e7e75d8ea8aa26c14",
+      "webpSha256": "0953ea57b80a9d9e3d58401fb1afeeabe30eb4c44b55423a9b7ee3567f863822",
+      "lumaSSIM": 0.993071
+    },
+    {
+      "source": "./stage/scenes/rose.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/rose.webp",
+      "webpUrl": "./stage/optimized/scenes/rose.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 582630,
+      "webpBytes": 244220,
+      "transportBytes": 244220,
+      "savedBytes": 338410,
+      "sourceSha256": "bc17aa8b75f7994e8522fd650c55b0049f0203f9a49315202482c54df2498370",
+      "webpSha256": "65e0eca8d02a752a1d8fcf25a8d56fc9349dbbf79f56b57d38c377a3e7c2f298",
+      "lumaSSIM": 0.992179
+    },
+    {
+      "source": "./stage/scenes/storybook.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/storybook.webp",
+      "webpUrl": "./stage/optimized/scenes/storybook.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2164,
+      "height": 727,
+      "originalBytes": 812757,
+      "webpBytes": 438016,
+      "transportBytes": 438016,
+      "savedBytes": 374741,
+      "sourceSha256": "c396d7fdf010d4b0346b6af8d1f1e8b1dde756368dbfd2398417b02b713d1308",
+      "webpSha256": "728dad48c2297169681a96d10167f9d482d2e42c73a47b3f47083d1fc7263a21",
+      "lumaSSIM": 0.992421
+    },
+    {
+      "source": "./stage/scenes/transparent-butterfly-hd.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/transparent-butterfly-hd.webp",
+      "webpUrl": "./stage/optimized/scenes/transparent-butterfly-hd.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 1034598,
+      "webpBytes": 316482,
+      "transportBytes": 316482,
+      "savedBytes": 718116,
+      "sourceSha256": "2215090967be7334bbe8ff5a181b288aac2f672ea0deb062a633a11e856cdd8d",
+      "webpSha256": "8c0943afcd08352d97c311448e92109d0c2685eee51f41b925955e1b5cd3e700",
+      "lumaSSIM": 0.9961
+    },
+    {
+      "source": "./stage/scenes/tree-live.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/tree-live.webp",
+      "webpUrl": "./stage/optimized/scenes/tree-live.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 590774,
+      "webpBytes": 228038,
+      "transportBytes": 228038,
+      "savedBytes": 362736,
+      "sourceSha256": "303205a5a07b937ffadf39f9790c190f376f183b6f75e602030a37f4774031a5",
+      "webpSha256": "1019327a084128b31df24b3bc7900efcdcefae5c0c74be265f483000e856fd1c",
+      "lumaSSIM": 0.9917
+    },
+    {
+      "source": "./stage/scenes/where-did-u-go-hd.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/where-did-u-go-hd.webp",
+      "webpUrl": "./stage/optimized/scenes/where-did-u-go-hd.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 1161430,
+      "webpBytes": 568898,
+      "transportBytes": 568898,
+      "savedBytes": 592532,
+      "sourceSha256": "6397965836cdb54087cd03758c7270eebad7a4ccc1cef3dea396cb7193ccdeb5",
+      "webpSha256": "d3cecd7cfd13b3de44050ac295e58cdcef7e6dc309796835aa261fda65700681",
+      "lumaSSIM": 0.99263
+    },
+    {
+      "source": "./stage/scenes/wings-live.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/wings-live.webp",
+      "webpUrl": "./stage/optimized/scenes/wings-live.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 678853,
+      "webpBytes": 282258,
+      "transportBytes": 282258,
+      "savedBytes": 396595,
+      "sourceSha256": "45969873be419648d13babb36a6287ae186ffa530f84643d5f494d3bded9bece",
+      "webpSha256": "2b440ae6605407f5555ce6da6150f519bfdfdd2af96237c6300fa55354045ba2",
+      "lumaSSIM": 0.991046
+    },
+    {
+      "source": "./stage/scenes/wolf-fracture-hd.jpg",
+      "group": "scenic",
+      "quality": 90,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/scenes/wolf-fracture-hd.webp",
+      "webpUrl": "./stage/optimized/scenes/wolf-fracture-hd.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 990795,
+      "webpBytes": 474720,
+      "transportBytes": 474720,
+      "savedBytes": 516075,
+      "sourceSha256": "327dd200245d7cc03309d5cd5deb826aad292824735f42265d4fc67bf44da625",
+      "webpSha256": "0d505c4b3f53d27b384cfeb8c144decda6efc3f6f21a844b403e0be37bd370af",
+      "lumaSSIM": 0.991462
+    },
+    {
+      "source": "./stage/screens/butterfly.jpg",
+      "group": "scenic",
+      "quality": 94,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/screens/butterfly.webp",
+      "webpUrl": "./stage/optimized/screens/butterfly.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": true,
+        "description": "sRGB",
+        "preserveOriginal": false
+      },
+      "width": 1214,
+      "height": 809,
+      "originalBytes": 201348,
+      "webpBytes": 191306,
+      "transportBytes": 191306,
+      "savedBytes": 10042,
+      "sourceSha256": "158f665d9673ccf13ca74fa47a17101a98bf49272ee1330d1e156f8e1b664a7b",
+      "webpSha256": "9a01988a0c79910632852857ef84777018c0166364c51dfe0d32befbb738fe54",
+      "lumaSSIM": 0.995712
+    },
+    {
+      "source": "./stage/screens/cathedral.jpg",
+      "group": "scenic",
+      "quality": 94,
+      "origins": [
+        "SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/screens/cathedral.webp",
+      "webpUrl": "./stage/optimized/screens/cathedral.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1920,
+      "height": 1280,
+      "originalBytes": 1042738,
+      "webpBytes": 728154,
+      "transportBytes": 728154,
+      "savedBytes": 314584,
+      "sourceSha256": "d5186d80ccbf84d5171135dd08d3d5bb2d772defe3f92e06e394761d1df7f5f0",
+      "webpSha256": "de6c68740d029f9ae820d79f83a2d2c8930f6263a834c1ccc89658b93a880be2",
+      "lumaSSIM": 0.993929
+    },
+    {
+      "source": "./stage/screens/find-you-white.jpg",
+      "group": "scenic",
+      "quality": 94,
+      "origins": [
+        "SCREEN_ART",
+        "DIRECTED_SCREEN_ART"
+      ],
+      "actualUrl": "./stage/optimized/screens/find-you-white.webp",
+      "webpUrl": "./stage/optimized/screens/find-you-white.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 1316,
+      "height": 743,
+      "originalBytes": 974354,
+      "webpBytes": 194530,
+      "transportBytes": 194530,
+      "savedBytes": 779824,
+      "sourceSha256": "eb1b6510aa12dc250937740803e6d07fa98cbe5cd3240a52b7a3f65013c4a1c2",
+      "webpSha256": "00f72a0d8bce227844a3b48c9c20087e68df66ea79a7a1b861694e15f0ccda75",
+      "lumaSSIM": 0.994635
+    },
+    {
+      "source": "./stage/worlds/island-v1.jpg",
+      "group": "world",
+      "quality": 90,
+      "origins": [
+        "WORLD_TEXTURE"
+      ],
+      "actualUrl": "./stage/optimized/worlds/island-v1.webp",
+      "webpUrl": "./stage/optimized/worlds/island-v1.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 688653,
+      "webpBytes": 418426,
+      "transportBytes": 418426,
+      "savedBytes": 270227,
+      "sourceSha256": "b44ad7fcfd8b1bc6aff8035d483ab67737a28ccd5c511baac696df6dbd830508",
+      "webpSha256": "3d808f2b45f33a6b3c3bf2696d2d49aed415cd3620a099cb5d552e1d9211a7d4",
+      "lumaSSIM": 0.992397
+    },
+    {
+      "source": "./stage/worlds/redsea-v1.jpg",
+      "group": "world",
+      "quality": 90,
+      "origins": [
+        "WORLD_TEXTURE"
+      ],
+      "actualUrl": "./stage/optimized/worlds/redsea-v1.webp",
+      "webpUrl": "./stage/optimized/worlds/redsea-v1.webp",
+      "derivativePublished": true,
+      "transport": "webp",
+      "colorProfile": {
+        "embedded": false,
+        "description": "untagged",
+        "preserveOriginal": false
+      },
+      "width": 2172,
+      "height": 724,
+      "originalBytes": 839738,
+      "webpBytes": 570232,
+      "transportBytes": 570232,
+      "savedBytes": 269506,
+      "sourceSha256": "a35c3d123687b85d8037c4dde70f0db66d4dbf3baebd6a0e2c4092d747324f80",
+      "webpSha256": "335069d501fe69b8c3a7820ac7bd1a291d2ed62c909caebc4c0b6e7e694e57e6",
+      "lumaSSIM": 0.992702
+    }
+  ]
+}
