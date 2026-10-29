@@ -4,9 +4,9 @@
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="theme-color" content="#0b0b10">
 <title>G.E.M. I AM GLORIA 2.0 · 沉浸式概念现场</title><meta name="description" content="邓紫棋 I AM GLORIA 2.0 沉浸式概念现场。选择位置，随歌曲探索舞台，用手机取景留下属于你的灯海。">
 <link rel="icon" type="image/svg+xml" href="./favicon.svg">
-  <script type="module" crossorigin src="./assets/index-CGCsGDHt.js"></script>
-  <link rel="stylesheet" crossorigin href="./assets/index-BLg8qP7V.css">
-  <meta name="gloria-version" content="2026.10.29.1">
+  <script type="module" crossorigin src="./assets/index-vlv9YRQi.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-lq1xEsBY.css">
+  <meta name="gloria-version" content="2026.10.29.2">
 </head>
 <body>
 <div id="app">
@@ -44,6 +44,14 @@
 <dialog id="settings-dialog"><div class="dialog-header"><div><small>MAKE YOURSELF COMFORTABLE</small><h2>舒服地看一场</h2></div><button data-close aria-label="关闭设置">×</button></div><label class="setting-row">画面质量<select id="quality"><option value="auto">自动适应</option><option value="high">精致</option><option value="low">流畅</option><option value="compat">兼容</option></select></label><p id="quality-detail" class="dialog-intro" aria-live="polite"></p><label class="setting-row">减少动态<input id="reduced" type="checkbox" role="switch"></label><label class="setting-row">跟随演出人物<input id="follow" type="checkbox" role="switch" checked></label><label class="setting-row">音乐音量<input id="setting-volume" type="range" aria-label="设置音乐音量" min="0" max="100" value="40"></label><label class="setting-row">单曲循环<input id="setting-repeat" type="checkbox" role="switch"></label><p class="dialog-intro">流畅与兼容模式会减少灯束和粒子。减少动态会停下灯束游动与金纸飘落。</p><button id="fullscreen" class="secondary-button">进入 / 退出全屏 ↗</button></dialog>
 <dialog id="about-dialog"><div class="dialog-header"><div><small>AN UNOFFICIAL CONCEPT EXPERIENCE</small><h2>属于你的 GLORIA 现场</h2></div><button data-close aria-label="关闭说明">×</button></div><p>融合 I AM GLORIA 2.0 巡演的舞台元素与公开现场参考，构建一个自由选座的通用概念场馆。连续巨屏、中央走道与菱形前台连接整个现场。座位、尺寸均为概念估算，不作为准确购票视野工具。</p><p>大屏融合实拍画面与场景演绎，灯光和人物动作随歌曲变化；节目顺序与动线为创作编排。音乐为约30秒试听，并非演唱会现场录音。曲库仅保留有本地音频的32段试听。</p><p>屏幕按歌曲呈现舞美参考与影像，台上是可动的 Q 版舞台形象，随曲目切换造型。巡演标题悬在场馆正上空，轻触散成环绕头顶的城市星群，再触重新汇聚；心形光路沿观众区亮起，汇向宝石台再向外散开。这些互动为概念编排。本体验与歌手、主办方及票务平台无隶属关系。</p><div id="sources-links"></div></dialog>
 <script>
-setTimeout(function(){if(document.documentElement.dataset.sceneReady!=='true'){document.getElementById('graphics-error').hidden=false;document.querySelector('#graphics-error p').textContent='现场资源加载未完成。请重新加载，或尝试兼容模式。';}},18000);
+(function(){
+var panel=document.getElementById('graphics-error'),timer;
+window.__gloriaBoot={
+ready:function(){clearTimeout(timer);panel.hidden=true;delete document.documentElement.dataset.sceneError;document.documentElement.dataset.sceneReady='true';},
+fail:function(error,message){clearTimeout(timer);panel.hidden=false;panel.querySelector('p').textContent=message||'三维显示暂时中断。可尝试兼容模式重新进入，收藏的位置仍保存在当前浏览器。';document.documentElement.dataset.sceneError='true';},
+};
+timer=setTimeout(function(){if(document.documentElement.dataset.sceneReady!=='true'){panel.hidden=false;panel.querySelector('p').textContent='资源仍在加载，网络较慢时请稍候。加载完成会自动进入，也可重新加载或尝试兼容模式。';}},18000);
+})();
 </script>
+<script nomodule>window.__gloriaBoot.fail(null,'浏览器版本较旧，无法打开这个三维现场。请更新系统和浏览器后重试。');</script>
 </body></html>

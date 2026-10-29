@@ -1,8 +1,13 @@
 {
   "product": "gloria-live",
   "schema": 1,
-  "version": "2026.10.29.1",
+  "version": "2026.10.29.2",
   "files": [
+    {
+      "path": "CORMORANT-OFL.txt",
+      "size": 4387,
+      "sha256": "60700d351cac4650c51f3f9db318d2a420f8b45052dba2715eb5fec41f0f6956"
+    },
     {
       "path": "EFFECTS-LAB-LICENSE.txt",
       "size": 1067,
@@ -14,14 +19,29 @@
       "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
     },
     {
-      "path": "assets/index-BLg8qP7V.css",
-      "size": 60253,
-      "sha256": "fec2568ba777da79f61eb67d0f64c82b2cf909a09751c8a098c297b0dd4fdd99"
+      "path": "assets/cormorant-garamond-latin-vTYAbwjx.woff2",
+      "size": 37776,
+      "sha256": "5d618c462b7a5b74f442e1548880086af71764d9cc7d35c16ab45353da934621"
     },
     {
-      "path": "assets/index-CGCsGDHt.js",
-      "size": 1213142,
-      "sha256": "e7f1bdebbe57d6c14edfec72b8e2a04616ca52e63341a6fe9ba85ab555ba1c63"
+      "path": "assets/index-lq1xEsBY.css",
+      "size": 42025,
+      "sha256": "f3bfa681c53d71ac9e308744c1f9cc0c6e50963dc8ae054437747b026e5069f4"
+    },
+    {
+      "path": "assets/index-vlv9YRQi.js",
+      "size": 3919,
+      "sha256": "6412e8552a7a5c4b2ac9c11681a70caccc271aba8957749b0abbd51a3ed7f008"
+    },
+    {
+      "path": "assets/main-BA7ejOiV.js",
+      "size": 1215757,
+      "sha256": "3f968a302aadc7817c90f2629b62ab6fcae7a74e7c5c070a4142d46b4337fd9c"
+    },
+    {
+      "path": "assets/main-Owf3JABE.css",
+      "size": 19358,
+      "sha256": "5ca7e49d1a7b7ce55afc1822bc139f210e9529e1f449990b9cd4fbb6d0ebd06f"
     },
     {
       "path": "audio/farewell.wav",
@@ -205,8 +225,8 @@
     },
     {
       "path": "index.html",
-      "size": 12366,
-      "sha256": "a75a656fcc07cd0d83bcd4313a9f2f99845266900f5f6f83d8e4bdb52841d829"
+      "size": 13064,
+      "sha256": "a6f6c3b23617276d3e64df289b2bfec7a8695f21b398f15c1298610a5af0e8ad"
     },
     {
       "path": "stage/clips/blue-confetti-poster.jpg",
@@ -2976,7 +2996,7 @@
     {
       "path": "version.json",
       "size": 83,
-      "sha256": "708f6032e8c112651245bedc3863ca56262e47073fe08c52d120c990f56d499e"
+      "sha256": "b329850813966a96776ee3122134f1da02d77415d8a49f9bcb70ea353ca61a2e"
     },
     {
       "path": ".nojekyll",
@@ -2987,6 +3007,18 @@
       "path": "CNAME",
       "size": 22,
       "sha256": "1f04ea17c4874f71d5ce13d1334fa872a51bf6ce2010ba1d506d8acf33d2fc7a"
+    },
+    {
+      "path": "assets/index-BLg8qP7V.css",
+      "size": 60253,
+      "sha256": "fec2568ba777da79f61eb67d0f64c82b2cf909a09751c8a098c297b0dd4fdd99",
+      "retainUntil": 1793335375902
+    },
+    {
+      "path": "assets/index-CGCsGDHt.js",
+      "size": 1213142,
+      "sha256": "e7f1bdebbe57d6c14edfec72b8e2a04616ca52e63341a6fe9ba85ab555ba1c63",
+      "retainUntil": 1793335375903
     }
   ]
 }
