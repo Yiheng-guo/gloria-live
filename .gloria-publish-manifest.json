@@ -1,7 +1,7 @@
 {
   "product": "gloria-live",
   "schema": 1,
-  "version": "2026.11.01.2",
+  "version": "2026.11.01.3",
   "files": [
     {
       "path": "CORMORANT-OFL.txt",
@@ -19,9 +19,9 @@
       "sha256": "38fc399e3ec937545f3b647d4286c670ac445a7f6ec469cdbf4d986d18545bf9"
     },
     {
-      "path": "assets/GLTFLoader-3rict-Tr.js",
+      "path": "assets/GLTFLoader-C-HDtq54.js",
       "size": 43825,
-      "sha256": "1179d1b7b4bd70c5ed673c38941ba9cc0ea0e5e4d8d691200fe2fc807b93b133"
+      "sha256": "66ce751fcea0f1007721cff9dd7cb457ebb25759fbb79210c33a9fbe32c5b3e6"
     },
     {
       "path": "assets/cormorant-garamond-latin-vTYAbwjx.woff2",
@@ -34,14 +34,14 @@
       "sha256": "e4f2f0934f525fba6b1dd360c765ff8fdcbdbd8e6053c91a83b11da29c352fee"
     },
     {
-      "path": "assets/index-CT0Sr24C.js",
+      "path": "assets/index-DzIuPk5R.js",
       "size": 3948,
-      "sha256": "68d8728b956e48987735894e3bdff80507e8739aa2f21b865a1ea914097c3711"
+      "sha256": "1291efd1776ed7e64403e6a25d3239378f570f2244feea30f4c327b78cd97254"
     },
     {
-      "path": "assets/main-BdHKTKgH.js",
-      "size": 1301276,
-      "sha256": "47a4203049e8791614dedd8dcb35dc35e0b632dfc5902e2aed29b055e771d0f9"
+      "path": "assets/main-ChN0SebZ.js",
+      "size": 1301511,
+      "sha256": "8f8f7279fd417774c7eff4dc79a325bdc0759a4e6a12b84f86a786aecc283f63"
     },
     {
       "path": "assets/main-O_tUh96P.css",
@@ -236,7 +236,7 @@
     {
       "path": "index.html",
       "size": 13216,
-      "sha256": "279fd1d5b5ef9b558efd61356be983a694e31041e19560cb287c2137a09b4ddd"
+      "sha256": "2cde376d60261afd5c157e8d851d9a700573363b88890a038ba359fbab796a47"
     },
     {
       "path": "stage/clips/blue-confetti-poster.jpg",
@@ -3236,7 +3236,7 @@
     {
       "path": "version.json",
       "size": 83,
-      "sha256": "ab95a5addd67050735f1c76826dd001209205fc9e9dd631c255a8e32ba81044c"
+      "sha256": "b6bdf80d6d3fb1178ba31223127034dad053ec0313da9278210debf5b8227b50"
     },
     {
       "path": ".nojekyll",
@@ -3247,6 +3247,24 @@
       "path": "CNAME",
       "size": 22,
       "sha256": "1f04ea17c4874f71d5ce13d1334fa872a51bf6ce2010ba1d506d8acf33d2fc7a"
+    },
+    {
+      "path": "assets/GLTFLoader-3rict-Tr.js",
+      "size": 43825,
+      "sha256": "1179d1b7b4bd70c5ed673c38941ba9cc0ea0e5e4d8d691200fe2fc807b93b133",
+      "retainUntil": 1793603593301
+    },
+    {
+      "path": "assets/index-CT0Sr24C.js",
+      "size": 3948,
+      "sha256": "68d8728b956e48987735894e3bdff80507e8739aa2f21b865a1ea914097c3711",
+      "retainUntil": 1793603593301
+    },
+    {
+      "path": "assets/main-BdHKTKgH.js",
+      "size": 1301276,
+      "sha256": "47a4203049e8791614dedd8dcb35dc35e0b632dfc5902e2aed29b055e771d0f9",
+      "retainUntil": 1793603593302
     },
     {
       "path": "assets/GLTFLoader-DCNI-16_.js",
