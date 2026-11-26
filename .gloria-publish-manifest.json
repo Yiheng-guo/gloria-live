@@ -1,7 +1,7 @@
 {
   "product": "gloria-live",
   "schema": 1,
-  "version": "2026.11.26.1",
+  "version": "2026.11.26.2",
   "files": [
     {
       "path": "CORMORANT-OFL.txt",
@@ -19,9 +19,9 @@
       "sha256": "38fc399e3ec937545f3b647d4286c670ac445a7f6ec469cdbf4d986d18545bf9"
     },
     {
-      "path": "assets/GLTFLoader-D2RxeQqW.js",
+      "path": "assets/GLTFLoader-BbV7qdJt.js",
       "size": 43825,
-      "sha256": "524e82305221404c3a7f4411fe903b7af7c2591a3ba64bbd86b682e99361649c"
+      "sha256": "5e56fc03999463937c802e26797b037798d57c6290b7484630cc88d711b08cd0"
     },
     {
       "path": "assets/cormorant-garamond-latin-vTYAbwjx.woff2",
@@ -29,24 +29,24 @@
       "sha256": "5d618c462b7a5b74f442e1548880086af71764d9cc7d35c16ab45353da934621"
     },
     {
-      "path": "assets/index-B-MGeDDe.css",
-      "size": 42614,
-      "sha256": "e4f2f0934f525fba6b1dd360c765ff8fdcbdbd8e6053c91a83b11da29c352fee"
-    },
-    {
-      "path": "assets/index-CV7vgojX.js",
+      "path": "assets/index-B225WI6j.js",
       "size": 3948,
-      "sha256": "c56ee2302f2885ea5b312736577e5a0c4aa1092695829267a139aec04e25013a"
+      "sha256": "2702ba11910e0c5cc10a2a6cae4cc4b45e3f71561f24b54479767d6671314b53"
     },
     {
-      "path": "assets/main-BoRZCtSq.js",
-      "size": 1306868,
-      "sha256": "f9ad405cc6d561446dce3c3b1efe7a26c7c66ef6ceb1dfc7b703f1eb7d37f371"
+      "path": "assets/index-paG7jPtJ.css",
+      "size": 43002,
+      "sha256": "5ae589d3225e830823de191b6bcfd524719d0c048437d3b02a02313b59d18027"
     },
     {
       "path": "assets/main-CwZvT6Js.css",
       "size": 20937,
       "sha256": "d8ccc49efca5e00f538fdf22b0953d067029e8f9785b71b8a7057d2bc495636b"
+    },
+    {
+      "path": "assets/main-DX3to6E0.js",
+      "size": 1311121,
+      "sha256": "ccc6c056011c7247e360e568aa7a5db8e8da8152fa8c27c2cef57c12f8679384"
     },
     {
       "path": "assets/meshopt_decoder.module-BkEQAzru.js",
@@ -235,8 +235,8 @@
     },
     {
       "path": "index.html",
-      "size": 13395,
-      "sha256": "f7ba6928b7bcd61df7a86526286ca06e6b620aed181827fb9076ae6e9b16fc7a"
+      "size": 13543,
+      "sha256": "42a71b6016582a7855f7d62102b693acbd054c0ff3063fa4f771ff4081470196"
     },
     {
       "path": "stage/clips/blue-confetti-poster.jpg",
@@ -3241,7 +3241,7 @@
     {
       "path": "version.json",
       "size": 83,
-      "sha256": "9180dc94aef81fcfe7a741ddd7e7c0d66a1d8a1688d0e7ac57e316b73e4f03a4"
+      "sha256": "f3530bcc7255dd1cd49d749a655d02e97d299b6ebeab15cdd7a88d4cfe180d13"
     },
     {
       "path": ".nojekyll",
@@ -3252,6 +3252,30 @@
       "path": "CNAME",
       "size": 22,
       "sha256": "1f04ea17c4874f71d5ce13d1334fa872a51bf6ce2010ba1d506d8acf33d2fc7a"
+    },
+    {
+      "path": "assets/GLTFLoader-D2RxeQqW.js",
+      "size": 43825,
+      "sha256": "524e82305221404c3a7f4411fe903b7af7c2591a3ba64bbd86b682e99361649c",
+      "retainUntil": 1795761452145
+    },
+    {
+      "path": "assets/index-B-MGeDDe.css",
+      "size": 42614,
+      "sha256": "e4f2f0934f525fba6b1dd360c765ff8fdcbdbd8e6053c91a83b11da29c352fee",
+      "retainUntil": 1795761452145
+    },
+    {
+      "path": "assets/index-CV7vgojX.js",
+      "size": 3948,
+      "sha256": "c56ee2302f2885ea5b312736577e5a0c4aa1092695829267a139aec04e25013a",
+      "retainUntil": 1795761452145
+    },
+    {
+      "path": "assets/main-BoRZCtSq.js",
+      "size": 1306868,
+      "sha256": "f9ad405cc6d561446dce3c3b1efe7a26c7c66ef6ceb1dfc7b703f1eb7d37f371",
+      "retainUntil": 1795761452146
     },
     {
       "path": "assets/GLTFLoader-C-HDtq54.js",
