@@ -1,7 +1,7 @@
 {
   "product": "gloria-live",
   "schema": 1,
-  "version": "2026.11.26.7",
+  "version": "2026.11.26.8",
   "files": [
     {
       "path": "CORMORANT-OFL.txt",
@@ -19,9 +19,9 @@
       "sha256": "38fc399e3ec937545f3b647d4286c670ac445a7f6ec469cdbf4d986d18545bf9"
     },
     {
-      "path": "assets/GLTFLoader-djWTK4qX.js",
+      "path": "assets/GLTFLoader-DKktOii4.js",
       "size": 43825,
-      "sha256": "02fa5533107bb7a2104ad90c1cf0f11d2bc9c91c8558d2a54c5ba410e19697fa"
+      "sha256": "242c4d3a4e4b72def58dc69d8c34885fcb7e2f2c6db59d052f96070135c5ad0b"
     },
     {
       "path": "assets/cormorant-garamond-latin-vTYAbwjx.woff2",
@@ -29,19 +29,19 @@
       "sha256": "5d618c462b7a5b74f442e1548880086af71764d9cc7d35c16ab45353da934621"
     },
     {
-      "path": "assets/index-CbSZmHs9.css",
-      "size": 42668,
-      "sha256": "441910088e4c14f7ebc7ff625182c4ed49fc0f5f281dd55f0d35d01114a0d119"
-    },
-    {
-      "path": "assets/index-nUtRnpeH.js",
+      "path": "assets/index-CZ8O7pAV.js",
       "size": 4904,
-      "sha256": "dda8cf82b7674e5c05538fcc49bcc45c69ffb851ca1869324617979578a496d3"
+      "sha256": "0e318d074c06e513883f5b64ba8c3ea0b06bbbcc9e91d82d4a533d5320181dec"
     },
     {
-      "path": "assets/main-CL0St9zi.js",
+      "path": "assets/index-DLbaMznP.css",
+      "size": 42754,
+      "sha256": "004f4e8f03a331faaf19cb3db6ca157fa879e497627ce1bfc938e8e0e8545d1d"
+    },
+    {
+      "path": "assets/main-BeuAhSjW.js",
       "size": 1336524,
-      "sha256": "c4ff2df86417d89622259bb17470ad396fd72dbaff7259d9bce55ca83b210d8f"
+      "sha256": "9e69668ffb0b79f9f49c417bedf41436bc2e4cd3db2262f166d93b17326ad063"
     },
     {
       "path": "assets/main-CwZvT6Js.css",
@@ -236,7 +236,7 @@
     {
       "path": "index.html",
       "size": 13476,
-      "sha256": "c7da5d45e486a18ca2ca6eff289589fd33b92ba4ee74095002747a8ab6e790d7"
+      "sha256": "5d06d64197eba7af357bb5812d5c774a3972b8dde57e1c3540d7c59740300c7d"
     },
     {
       "path": "stage/clips/blue-confetti-poster.jpg",
@@ -3326,7 +3326,7 @@
     {
       "path": "version.json",
       "size": 83,
-      "sha256": "27a69d54540a3b393bf99bb433d49f917502235cd2f7479af8d32e75215528a8"
+      "sha256": "a44accd97f4b947710b126c77265e27bc10e61c93808d05eb83d4aab2e085843"
     },
     {
       "path": ".nojekyll",
@@ -3337,6 +3337,30 @@
       "path": "CNAME",
       "size": 22,
       "sha256": "1f04ea17c4874f71d5ce13d1334fa872a51bf6ce2010ba1d506d8acf33d2fc7a"
+    },
+    {
+      "path": "assets/GLTFLoader-djWTK4qX.js",
+      "size": 43825,
+      "sha256": "02fa5533107bb7a2104ad90c1cf0f11d2bc9c91c8558d2a54c5ba410e19697fa",
+      "retainUntil": 1795776188299
+    },
+    {
+      "path": "assets/index-CbSZmHs9.css",
+      "size": 42668,
+      "sha256": "441910088e4c14f7ebc7ff625182c4ed49fc0f5f281dd55f0d35d01114a0d119",
+      "retainUntil": 1795776188299
+    },
+    {
+      "path": "assets/index-nUtRnpeH.js",
+      "size": 4904,
+      "sha256": "dda8cf82b7674e5c05538fcc49bcc45c69ffb851ca1869324617979578a496d3",
+      "retainUntil": 1795776188299
+    },
+    {
+      "path": "assets/main-CL0St9zi.js",
+      "size": 1336524,
+      "sha256": "c4ff2df86417d89622259bb17470ad396fd72dbaff7259d9bce55ca83b210d8f",
+      "retainUntil": 1795776188300
     },
     {
       "path": "assets/GLTFLoader-DKWR1rRi.js",
