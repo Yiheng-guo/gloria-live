@@ -1,7 +1,7 @@
 {
   "product": "gloria-live",
   "schema": 1,
-  "version": "2026.11.26.5",
+  "version": "2026.11.26.6",
   "files": [
     {
       "path": "CORMORANT-OFL.txt",
@@ -19,9 +19,9 @@
       "sha256": "38fc399e3ec937545f3b647d4286c670ac445a7f6ec469cdbf4d986d18545bf9"
     },
     {
-      "path": "assets/GLTFLoader-B8Oif4fo.js",
+      "path": "assets/GLTFLoader-DKWR1rRi.js",
       "size": 43825,
-      "sha256": "642f8922765eac83d33a0c0ba44e3a616353bdb7e8b2ba981d5c7bba161b5b8c"
+      "sha256": "5b8075fba7dc2e50157cc452b0ab458800ae84a8c4897e0bbb508b9907f82f25"
     },
     {
       "path": "assets/cormorant-garamond-latin-vTYAbwjx.woff2",
@@ -29,14 +29,14 @@
       "sha256": "5d618c462b7a5b74f442e1548880086af71764d9cc7d35c16ab45353da934621"
     },
     {
-      "path": "assets/index-B94cV0FJ.js",
-      "size": 4904,
-      "sha256": "a8af512dc42cbdef9970f747fc57cfe74cacf104b4196877ad02a5057727d9e7"
+      "path": "assets/index-B-MGeDDe.css",
+      "size": 42614,
+      "sha256": "e4f2f0934f525fba6b1dd360c765ff8fdcbdbd8e6053c91a83b11da29c352fee"
     },
     {
-      "path": "assets/index-BNEogzgO.css",
-      "size": 43173,
-      "sha256": "644fd55c21c570b24d84bbd02f21a43d9d343157f3c8ebc3c7302bbd75b2c96c"
+      "path": "assets/index-TZH3sqk-.js",
+      "size": 4904,
+      "sha256": "1bfa56b7910a59b3c0576d1d369cb2856619c9e8f6c5988a19ca92a58cdf4b61"
     },
     {
       "path": "assets/main-CwZvT6Js.css",
@@ -44,9 +44,9 @@
       "sha256": "d8ccc49efca5e00f538fdf22b0953d067029e8f9785b71b8a7057d2bc495636b"
     },
     {
-      "path": "assets/main-NSph0baG.js",
-      "size": 1332710,
-      "sha256": "ff3cb0331ccb54919aa57a95e437c9ba6217c5073c1f013dda398e784bceeda8"
+      "path": "assets/main-DZvw-x3R.js",
+      "size": 1336196,
+      "sha256": "6cb86e4b0866d920c38095abc0c6fc53c2134acfd1b361d5f850488b02be01fc"
     },
     {
       "path": "assets/meshopt_decoder.module-BkEQAzru.js",
@@ -235,8 +235,8 @@
     },
     {
       "path": "index.html",
-      "size": 13799,
-      "sha256": "c084b135851224f0652f1614f784db7e73e60667e955c99b8478c803da2d98db"
+      "size": 13476,
+      "sha256": "82b634372ca00be7f342b7f5b747650c20afd1f8d3d5ada7aafa572ed48594c2"
     },
     {
       "path": "stage/clips/blue-confetti-poster.jpg",
@@ -299,6 +299,41 @@
       "sha256": "43c8f1003e033b80443a77ddff48b62818878e27eabd5d606b1b87e8fd74a858"
     },
     {
+      "path": "stage/models/gem-detail-171.webp",
+      "size": 142742,
+      "sha256": "93015c433ccf5484e874dcaa1796bed8ee7def2c57724e69bc9530a6a22af927"
+    },
+    {
+      "path": "stage/models/gem-detail-172.webp",
+      "size": 149460,
+      "sha256": "b8c7224555bbe8ff25f256ebd354f1cd6f9c58c67876b9dce2d195caad84acaf"
+    },
+    {
+      "path": "stage/models/gem-detail-173.webp",
+      "size": 147590,
+      "sha256": "d570bfd0e73114658ff4b67d1008071b57e6d20bceb58c663aceb904674d935a"
+    },
+    {
+      "path": "stage/models/gem-detail-174.webp",
+      "size": 159018,
+      "sha256": "a347eab733ba4a73d3c2480de9307d5f358468b962f1819dd01206c379bd53b4"
+    },
+    {
+      "path": "stage/models/gem-detail-175.webp",
+      "size": 133000,
+      "sha256": "52e8c3b0f4dd397fb4394796f6229e39cf4ec2112e678e2bdd685e9d58ccdfa7"
+    },
+    {
+      "path": "stage/models/gem-detail-176.webp",
+      "size": 357604,
+      "sha256": "34775f16a2b6ebcfb4f8ad26eb64097717d37cc936624b3d0ab4f5d861afaf21"
+    },
+    {
+      "path": "stage/models/gem-detail-177.webp",
+      "size": 418430,
+      "sha256": "a23ecb9fc7ff9cbb50d705cc6c929a56ee1c9a1ab109016df26189f268909991"
+    },
+    {
       "path": "stage/models/gem-doll-171.glb",
       "size": 1621896,
       "sha256": "4e7112cfc30cca0fcaa9369a63e9d946499f288a5ca051e7d126d134a536bf4b"
@@ -322,6 +357,31 @@
       "path": "stage/models/gem-doll-175.glb",
       "size": 1481596,
       "sha256": "800d9a28487cbda41926b57e27c22059c40dd1bf9fdc0212a04e1be59e7dce41"
+    },
+    {
+      "path": "stage/models/gem-doll-176.glb",
+      "size": 2031168,
+      "sha256": "a03795916a013b9d4b25ad00eaeb924368e15576f92fffaa94dd511e4da7502b"
+    },
+    {
+      "path": "stage/models/gem-doll-177.glb",
+      "size": 2215996,
+      "sha256": "a933e77970706749585a052f7fab5c52ae428930eb203e0f7d42bf7628f0da33"
+    },
+    {
+      "path": "stage/models/gem-doll-178.glb",
+      "size": 1844184,
+      "sha256": "44328ceda3a9e09e669e4701613619d14ed5a7864eb96cab805a024f8f22906b"
+    },
+    {
+      "path": "stage/models/gem-doll-179.glb",
+      "size": 1986500,
+      "sha256": "1da4a99a84ac365e524a3ba968ab18d1cc9b3c923d0e64ce17ccbc8dc1e33bd7"
+    },
+    {
+      "path": "stage/models/gem-doll-180.glb",
+      "size": 1512696,
+      "sha256": "304453992984432bc7593bee7e6d991dff3d48fa1936beddfd38de1ddd09983f"
     },
     {
       "path": "stage/models/gloria-lion-far-v1.glb",
@@ -3266,7 +3326,7 @@
     {
       "path": "version.json",
       "size": 83,
-      "sha256": "a1ca74e1d70d3fa0da7365a6cab9012e6451a21c594c98dec7a0eadf1e927208"
+      "sha256": "37b2cf86fc273fd76ec58f5f13c9b54987e5f18802cbaac6d2f44f73ecede5e5"
     },
     {
       "path": ".nojekyll",
@@ -3277,6 +3337,30 @@
       "path": "CNAME",
       "size": 22,
       "sha256": "1f04ea17c4874f71d5ce13d1334fa872a51bf6ce2010ba1d506d8acf33d2fc7a"
+    },
+    {
+      "path": "assets/GLTFLoader-B8Oif4fo.js",
+      "size": 43825,
+      "sha256": "642f8922765eac83d33a0c0ba44e3a616353bdb7e8b2ba981d5c7bba161b5b8c",
+      "retainUntil": 1795775762262
+    },
+    {
+      "path": "assets/index-B94cV0FJ.js",
+      "size": 4904,
+      "sha256": "a8af512dc42cbdef9970f747fc57cfe74cacf104b4196877ad02a5057727d9e7",
+      "retainUntil": 1795775762262
+    },
+    {
+      "path": "assets/index-BNEogzgO.css",
+      "size": 43173,
+      "sha256": "644fd55c21c570b24d84bbd02f21a43d9d343157f3c8ebc3c7302bbd75b2c96c",
+      "retainUntil": 1795775762262
+    },
+    {
+      "path": "assets/main-NSph0baG.js",
+      "size": 1332710,
+      "sha256": "ff3cb0331ccb54919aa57a95e437c9ba6217c5073c1f013dda398e784bceeda8",
+      "retainUntil": 1795775762263
     },
     {
       "path": "assets/GLTFLoader-6ixNGRzZ.js",
@@ -3342,12 +3426,6 @@
       "path": "assets/GLTFLoader-D2RxeQqW.js",
       "size": 43825,
       "sha256": "524e82305221404c3a7f4411fe903b7af7c2591a3ba64bbd86b682e99361649c",
-      "retainUntil": 1795761452145
-    },
-    {
-      "path": "assets/index-B-MGeDDe.css",
-      "size": 42614,
-      "sha256": "e4f2f0934f525fba6b1dd360c765ff8fdcbdbd8e6053c91a83b11da29c352fee",
       "retainUntil": 1795761452145
     },
     {
