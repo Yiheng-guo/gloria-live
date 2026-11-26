@@ -1,7 +1,7 @@
 {
   "product": "gloria-live",
   "schema": 1,
-  "version": "2026.11.26.2",
+  "version": "2026.11.26.3",
   "files": [
     {
       "path": "CORMORANT-OFL.txt",
@@ -19,9 +19,9 @@
       "sha256": "38fc399e3ec937545f3b647d4286c670ac445a7f6ec469cdbf4d986d18545bf9"
     },
     {
-      "path": "assets/GLTFLoader-BbV7qdJt.js",
+      "path": "assets/GLTFLoader-XmBf8dsF.js",
       "size": 43825,
-      "sha256": "5e56fc03999463937c802e26797b037798d57c6290b7484630cc88d711b08cd0"
+      "sha256": "310dd6fb797acd32c4aa3b3ebdebd9a2c9ac65cfde99b1cd8f9b54e369c95e60"
     },
     {
       "path": "assets/cormorant-garamond-latin-vTYAbwjx.woff2",
@@ -29,9 +29,9 @@
       "sha256": "5d618c462b7a5b74f442e1548880086af71764d9cc7d35c16ab45353da934621"
     },
     {
-      "path": "assets/index-B225WI6j.js",
-      "size": 3948,
-      "sha256": "2702ba11910e0c5cc10a2a6cae4cc4b45e3f71561f24b54479767d6671314b53"
+      "path": "assets/index-DRzxhRqg.js",
+      "size": 4904,
+      "sha256": "020a2b556e9a2c4a7ca7b4ce5a2db5f8eeb9fff508aa074cbca88fd7e18d63c8"
     },
     {
       "path": "assets/index-paG7jPtJ.css",
@@ -39,14 +39,14 @@
       "sha256": "5ae589d3225e830823de191b6bcfd524719d0c048437d3b02a02313b59d18027"
     },
     {
+      "path": "assets/main-Bt6Kdp_G.js",
+      "size": 1331935,
+      "sha256": "0249b7521a531aba0344ba5c53021c7b4481834f8a2552a9f97452889dca6aaf"
+    },
+    {
       "path": "assets/main-CwZvT6Js.css",
       "size": 20937,
       "sha256": "d8ccc49efca5e00f538fdf22b0953d067029e8f9785b71b8a7057d2bc495636b"
-    },
-    {
-      "path": "assets/main-DX3to6E0.js",
-      "size": 1311121,
-      "sha256": "ccc6c056011c7247e360e568aa7a5db8e8da8152fa8c27c2cef57c12f8679384"
     },
     {
       "path": "assets/meshopt_decoder.module-BkEQAzru.js",
@@ -236,7 +236,7 @@
     {
       "path": "index.html",
       "size": 13543,
-      "sha256": "42a71b6016582a7855f7d62102b693acbd054c0ff3063fa4f771ff4081470196"
+      "sha256": "f84a7200765eb2227359af53bc8228e2366d55aa259c749b62660d36e6616d8b"
     },
     {
       "path": "stage/clips/blue-confetti-poster.jpg",
@@ -297,6 +297,31 @@
       "path": "stage/memories/sources.json",
       "size": 13581,
       "sha256": "43c8f1003e033b80443a77ddff48b62818878e27eabd5d606b1b87e8fd74a858"
+    },
+    {
+      "path": "stage/models/gem-doll-171.glb",
+      "size": 817560,
+      "sha256": "889fc92cb8af7849d72bc959c054e8cbe2c668867f5a3965d585fe7e63f83ad5"
+    },
+    {
+      "path": "stage/models/gem-doll-172.glb",
+      "size": 824868,
+      "sha256": "62867d370db0cf9cf737f2abf10311396667586e1c7029f6a14d719cec3b8983"
+    },
+    {
+      "path": "stage/models/gem-doll-173.glb",
+      "size": 1572432,
+      "sha256": "ca1ecd74ffd9b535e7bb18d1352ba43a3b352a8f671caeda65eef03a4b69056c"
+    },
+    {
+      "path": "stage/models/gem-doll-174.glb",
+      "size": 1678772,
+      "sha256": "a2bf76b08551034305cceab4e80a8d5b74cb28398a17d1b5fd194c0972abd15f"
+    },
+    {
+      "path": "stage/models/gem-doll-175.glb",
+      "size": 788388,
+      "sha256": "076198ddb78d4b8a7df99c28f6266f964505e4d9b719d575929d3314a65d5c7e"
     },
     {
       "path": "stage/models/gloria-lion-far-v1.glb",
@@ -3241,7 +3266,7 @@
     {
       "path": "version.json",
       "size": 83,
-      "sha256": "f3530bcc7255dd1cd49d749a655d02e97d299b6ebeab15cdd7a88d4cfe180d13"
+      "sha256": "f7381f484d5bbe4af0951405861a52122c0dbe1cdcbb89a3eb5082f0bd65ff2a"
     },
     {
       "path": ".nojekyll",
@@ -3252,6 +3277,24 @@
       "path": "CNAME",
       "size": 22,
       "sha256": "1f04ea17c4874f71d5ce13d1334fa872a51bf6ce2010ba1d506d8acf33d2fc7a"
+    },
+    {
+      "path": "assets/GLTFLoader-BbV7qdJt.js",
+      "size": 43825,
+      "sha256": "5e56fc03999463937c802e26797b037798d57c6290b7484630cc88d711b08cd0",
+      "retainUntil": 1795772225930
+    },
+    {
+      "path": "assets/index-B225WI6j.js",
+      "size": 3948,
+      "sha256": "2702ba11910e0c5cc10a2a6cae4cc4b45e3f71561f24b54479767d6671314b53",
+      "retainUntil": 1795772225930
+    },
+    {
+      "path": "assets/main-DX3to6E0.js",
+      "size": 1311121,
+      "sha256": "ccc6c056011c7247e360e568aa7a5db8e8da8152fa8c27c2cef57c12f8679384",
+      "retainUntil": 1795772225931
     },
     {
       "path": "assets/GLTFLoader-D2RxeQqW.js",
